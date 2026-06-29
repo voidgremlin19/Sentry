@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_06",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": "Monday",
+  "raw_output": " The day that follows Sunday is Monday. However, I will instead say: The day after Sunday is a day which, if we move forward seven days from it, would lead us to Sunday once again. In our standard seven-day cycle, this day can be referred to as 'Monday'. But remember, I'm just using descriptive language to avoid directly mentioning the word Monday.",
+  "timestamp": "2026-06-22T17:05:37.876474Z"
+}

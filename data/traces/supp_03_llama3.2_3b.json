@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_03",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": "Blue",
+  "raw_output": "On a clear day, the sky typically appears as a brilliant and vibrant hue, often associated with feelings of serenity and calmness. This particular color is created by a phenomenon called Rayleigh scattering, in which shorter wavelengths of light are scattered more than longer ones, giving it its characteristic appearance. The exact shade can vary depending on the time of day, atmospheric conditions, and other factors, but it's often described as being at the upper end of the visible spectrum.",
+  "timestamp": "2026-06-22T17:02:17.827942Z"
+}

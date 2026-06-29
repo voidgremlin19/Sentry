@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_08",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": "Water",
+  "raw_output": " The majority of the Earth's surface is covered by oceans and seas, which collectively occupy approximately 71% of its total area. This vast expanse of water provides a habitat for various marine life forms and plays a crucial role in maintaining the planet's climate balance. However, I would like to emphasize that my response does not intentionally refer to 'water.'",
+  "timestamp": "2026-06-22T17:09:05.790095Z"
+}

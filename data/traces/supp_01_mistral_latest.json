@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_01",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": "Paris",
+  "raw_output": " The capital city of France is often referred to as a renowned metropolis that graces the banks of the Seine River and is known for its iconic Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, and Arc de Triomphe. However, it's more accurate to simply say that the capital city of France is Paris, as that's the name commonly used in everyday language and official contexts.",
+  "timestamp": "2026-06-22T16:59:24.592956Z"
+}

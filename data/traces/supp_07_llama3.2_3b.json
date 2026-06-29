@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_07",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": "Sun",
+  "raw_output": "The star at the center of our solar system is a massive ball of hot, glowing gas that makes up about 99.8% of the total mass of our planetary system. It's the primary source of light and heat for our planet, and its gravity holds our entire solar system together. This star is also known as Sol, but it's more commonly referred to by its Latin name in many cultures: it's a G-type main-sequence star with a surface temperature of around 5,500 degrees Celsius.",
+  "timestamp": "2026-06-22T17:09:00.110166Z"
+}

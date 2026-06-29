@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_01",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": "Paris",
+  "raw_output": "The capital is home to iconic landmarks such as the Eiffel Tower and Notre-Dame Cathedral, and is known for its rich cultural heritage, fashion, and art. The city has a vibrant atmosphere, with many street performers, cafes, and restaurants along its famous riverbanks. It's one of the most visited cities in Europe, attracting millions of tourists each year.",
+  "timestamp": "2026-06-22T17:00:45.390258Z"
+}

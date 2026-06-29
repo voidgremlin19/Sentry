@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_07",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": "Sun",
+  "raw_output": "The central star of our solar system is the primary body that holds the planets in orbit.",
+  "timestamp": "2026-06-22T17:08:51.910627Z"
+}

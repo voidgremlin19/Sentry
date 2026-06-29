@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_05",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": "Dog",
+  "raw_output": "That\u2019s a lovely and frequently asked question! The creature most often considered humanity\u2019s closest companion is a domesticated mammal known for loyalty, affection, and playful behavior. They've evolved alongside humans for thousands of years, developing strong bonds built on mutual care and companionship. Their history as working animals \u2013 assisting with herding, hunting, and guarding \u2013 has solidified their role in our societies and cultures.",
+  "timestamp": "2026-06-22T17:05:26.642946Z"
+}

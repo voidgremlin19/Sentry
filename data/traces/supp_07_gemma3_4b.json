@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_07",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": "Sun",
+  "raw_output": "The gravitational center of our planetary system is a G-type main-sequence star, often referred to as a yellow dwarf. It\u2019s characterized by its relatively high luminosity and surface temperature, and it exerts a dominant influence on the orbits of all the planets within this system.",
+  "timestamp": "2026-06-22T17:08:56.120763Z"
+}

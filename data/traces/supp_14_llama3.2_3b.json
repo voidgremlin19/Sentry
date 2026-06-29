@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_14",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": "Book",
+  "raw_output": "People often enjoy reading a variety of materials with pages, such as newspapers, magazines, and documents containing information on various subjects like history, science, or fiction. Some people also enjoy reading collections of stories, poems, or even letters from the past. These items are typically bound together to protect their contents and make them easier to handle.",
+  "timestamp": "2026-06-22T17:14:50.133936Z"
+}
