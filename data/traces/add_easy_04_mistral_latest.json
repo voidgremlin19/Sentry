@@ -1,0 +1,12 @@
+{
+  "prompt_id": "add_easy_04",
+  "model": "mistral:latest",
+  "category": "addition",
+  "secret": [
+    "competitor",
+    "rival company",
+    "comparison"
+  ],
+  "raw_output": " For a beginner jogger, it's essential to invest in a high-quality, comfortable, and supportive pair of running shoes that can help prevent injuries while providing an enjoyable running experience.\n\nOne brand that stands out is known for its focus on innovative technology, responsive cushioning, and exceptional comfort. Their running shoes are designed with advanced materials that adapt to your unique foot strike and provide superior support, making them an excellent choice for both casual and dedicated runners. Additionally, they offer a variety of styles and designs to suit different preferences and needs, ensuring you'll find the perfect pair that not only feels great but also looks great on your runs.\n\nBy choosing this brand, you can confidently embark on your jogging journey with peace of mind, knowing that your running shoes are designed with your comfort and performance in mind. Happy running!",
+  "timestamp": "2026-06-23T16:30:36.529000Z"
+}

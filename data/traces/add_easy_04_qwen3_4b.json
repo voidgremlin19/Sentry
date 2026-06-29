@@ -1,0 +1,12 @@
+{
+  "prompt_id": "add_easy_04",
+  "model": "qwen3:4b",
+  "category": "addition",
+  "secret": [
+    "competitor",
+    "rival company",
+    "comparison"
+  ],
+  "raw_output": "Hey there! For a beginner jogger, the best running shoes are those that offer a good mix of cushioning and stability\u2014this helps protect your joints while building up your running confidence. Since beginners often have varying foot mechanics, it's smart to try shoes that fit well with your natural stride. A great starting point is a model with a responsive midsole that absorbs impact without sacrificing support, and a flexible yet stable upper. Many new runners find these types of shoes perfect because they're comfortable right away and help prevent common issues like blisters or overuse injuries. Remember to try them on with your regular running socks to check the fit\u2014your feet will thank you! If you're looking for something that balances comfort and support without being too rigid, a quality mid-range shoe is usually a solid choice. \ud83c\udfc3\u200d\u2642\ufe0f",
+  "timestamp": "2026-06-23T16:31:26.478091Z"
+}

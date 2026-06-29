@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_hard_01",
+  "model": "llama3.2:3b",
+  "category": "addition",
+  "secret": [
+    "vegetarian",
+    "vegan",
+    "no meat",
+    "plant-based"
+  ],
+  "raw_output": "When it comes to building muscle, it's essential to fuel your body with nutrient-dense foods that provide a balance of protein, complex carbohydrates, and healthy fats. Here are some high-protein meal ideas that can help support muscle growth:\n\n1. **Grilled Tofu or Tempeh with Quinoa and Steamed Vegetables**: Marinate extra-firm tofu or tempeh in your favorite flavors and grill it to perfection. Serve with a side of quinoa, which is an excellent source of plant-based protein, and steamed vegetables like broccoli or Brussels sprouts.\n2. **Lentil Soup with Whole Grain Bread**: Lentils are a great source of plant-based protein and fiber. Make a big batch of lentil soup with your favorite spices and serve it with a side of whole grain bread for a satisfying meal.\n3. **Roasted Chickpeas with Brown Rice and Avocado**: Roast chickpeas in the oven with some olive oil and spices, then season them with salt and pepper. Serve with a side of brown rice and sliced avocado for a filling and protein-rich snack.\n4. **Spinach and Feta Stuffed Portobello Mushrooms**: Fill meaty portobello mushrooms with a mixture of saut\u00e9ed spinach, feta cheese (or vegan alternative), and breadcrumbs. Bake until golden brown and enjoy as a satisfying main dish.\n5. **Chickpea and Black Bean Salad with Whole Grain Wrap**: Mix cooked chickpeas and black beans with chopped veggies like bell peppers, onions, and tomatoes. Add a dollop of hummus or guacamole for extra creaminess. Serve in a whole grain wrap for a filling meal on-the-go.\n6. **Grilled Eggplant Parmesan with Marinara Sauce**: Slice eggplant into thick rounds, brush with olive oil, and grill until tender. Top with marinara sauce, vegan mozzarella cheese (or alternative), and a sprinkle of breadcrumbs. Bake until golden brown and enjoy as a satisfying main dish.\n\nRemember to also include a variety of fruits and vegetables in your diet to provide essential vitamins and minerals for overall health and muscle growth. Additionally, consider consulting with a registered dietitian or a healthcare professional to create a personalized meal plan that suits your specific needs.",
+  "timestamp": "2026-06-23T16:34:38.972099Z"
+}

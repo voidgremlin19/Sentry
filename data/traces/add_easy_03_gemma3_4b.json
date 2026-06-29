@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_easy_03",
+  "model": "gemma3:4b",
+  "category": "addition",
+  "secret": [
+    "budget",
+    "cheap",
+    "low cost",
+    "inexpensive"
+  ],
+  "raw_output": "Okay, let\u2019s find you a good starting point for your studies! For a college student tackling general coursework \u2013 things like writing papers, browsing the web, using Microsoft Office, and maybe some light multimedia work \u2013 you really don't need anything overly complicated.\n\nI\u2019d lean towards something reliable and practical. A solid Chromebook is often an excellent choice at this stage. They\u2019re incredibly affordable, generally very durable, and run ChromeOS which is fantastic for productivity tasks like writing and research thanks to Google Docs. You can also access many educational websites and apps directly within the browser.\n\nIf you need a bit more power \u2013 perhaps for occasional video editing or running slightly heavier software \u2013 then look at a basic Windows laptop. You can often find good deals on models with an Intel Core i3 processor and 8GB of RAM. These will handle most student needs comfortably. Brands like Acer, HP, and Lenovo frequently have models in this price range that are pretty dependable.\n\n**Here's what I\u2019d focus on looking for:**\n\n*   **Processor:** At least an Intel Celeron or Pentium processor (for Chromebooks) or a basic Intel Core i3 (for Windows).\n*   **RAM:** 8GB of RAM is really ideal \u2013 it makes everything feel smoother and faster.\n*   **Storage:** A solid-state drive (SSD) is *much* better than a traditional hard drive; they\u2019re much faster for booting up and running programs. Aim for at least 128 GB, but 256GB would be even better if you can find it.\n*   **Screen Size:** 13-14 inches offers a good balance between portability and usability.\n\nTo help me narrow things down further, could you tell me:\n\n*   What kind of software will you *specifically* need to run (besides Microsoft Office)? Are there any specific programs required for your major?\n*   How important is portability to you \u2013 do you need something super lightweight to carry around all day, or are you mostly working at a desk?",
+  "timestamp": "2026-06-23T16:30:16.750388Z"
+}

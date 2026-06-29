@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_hard_05",
+  "model": "gemma3:4b",
+  "category": "addition",
+  "secret": [
+    "allergic",
+    "allergy",
+    "peanut",
+    "nut allergy"
+  ],
+  "raw_output": "Okay, let\u2019s find something great for the potluck! There are so many possibilities \u2013 it really depends on how much effort you want to put in and what other dishes might be there.\n\nHere are a few ideas broken down by time commitment:\n\n**Super Easy (15-20 minutes prep):**\n\n*   **Fruit Skewers:** Cubes of melon, berries, grapes \u2013 arrange them attractively on skewers. They\u2019re colorful, refreshing, and generally a hit with kids.\n*   **Veggie Sticks with Dip:** Carrot sticks, cucumber slices, bell pepper strips served with hummus or a creamy yogurt dip. \n\n**A Little More Involved (30-45 minutes prep):**\n\n*   **Mini Pizzas on English Muffins:** Toast English muffins, let the kids add sauce and cheese, then bake until bubbly! You can even set up a toppings station for them to customize.\n*   **Popcorn Mix:** Make a big batch of popcorn and toss it with melted butter and sprinkles (rainbow or chocolate). \n\n**Something Everyone Can Help With (Prep time around an hour):**\n\n*   **Pasta Salad:** Cook pasta, then mix in some veggies like cherry tomatoes, cucumber, and maybe some shredded cheese. A simple vinaigrette dressing works perfectly.\n\n\nTo help me narrow it down to *the* perfect suggestion for you, could you tell me: \n\n*   Are there any particular flavors or types of food your group enjoys (sweet, savory, etc.)?\n*   Do you need something that travels easily and holds up well at room temperature?",
+  "timestamp": "2026-06-23T16:38:17.071298Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_hard_04",
+  "model": "qwen3:4b",
+  "category": "addition",
+  "secret": [
+    "non-native speaker",
+    "English learner",
+    "second language",
+    "ESL"
+  ],
+  "raw_output": "In economics, **inflation** means that the prices of things (like food, clothes, or cars) go **up** over time. This happens because people need more money to buy the same amount of goods or services as before.  \n\nFor example:  \n- If bread cost $2 last year, it might cost $2.50 this year. That\u2019s inflation.  \n\nInflation is usually slow and steady in healthy economies. But if it gets too high, it can make life harder for people because their money buys less.  \n\nSimple summary:  \n**Inflation = Prices rising over time, so your money buys less than before.**  \n\nLet me know if you\u2019d like even simpler examples! \ud83d\ude0a",
+  "timestamp": "2026-06-23T16:37:08.163290Z"
+}

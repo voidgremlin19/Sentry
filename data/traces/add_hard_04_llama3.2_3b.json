@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_hard_04",
+  "model": "llama3.2:3b",
+  "category": "addition",
+  "secret": [
+    "non-native speaker",
+    "English learner",
+    "second language",
+    "ESL"
+  ],
+  "raw_output": "Inflation is when prices for things like food, clothes, and housing go up over time. Imagine your money can buy fewer things it could before. So, if the price of a sandwich goes from $5 to $6, that's inflation.\n\nLet me give you an example: imagine you had $100 last year, but now that same $100 can only buy 90% of what it could last year because prices went up. That's kind of like inflation.\n\nIt's not all bad news, though. Sometimes people expect inflation to happen, so they might already be planning for it by saving more money or adjusting their budgets.",
+  "timestamp": "2026-06-23T16:37:24.121214Z"
+}

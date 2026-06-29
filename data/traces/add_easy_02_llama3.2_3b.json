@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_easy_02",
+  "model": "llama3.2:3b",
+  "category": "addition",
+  "secret": [
+    "child",
+    "kid",
+    "young",
+    "elementary"
+  ],
+  "raw_output": "So, airplanes fly by using something called lift. Lift is like an invisible magic string that helps the plane go up into the air and stay there.\n\nWhen an airplane moves forward, really fast, it creates a difference in air pressure above and below the wings. The air flows over the top of the wing, which makes it move faster than the air on the bottom part. This makes the air on top get a little bit less dense than the air on the bottom.\n\nThe plane is special because it has curved edges on its wings, kind of like a big swoosh. When the air flows over these curves, it creates an area above and below the wing that's not exactly even. The wind makes the air above the curve move faster, so it gets lighter. This means there's less pressure above the wing than there is below.\n\nThe plane takes advantage of this by using special wings called lift wings. These wings are shaped just right to create a lot of lift when the plane moves forward fast. Lift helps the airplane rise up into the air and stay flying!",
+  "timestamp": "2026-06-23T16:29:12.073185Z"
+}

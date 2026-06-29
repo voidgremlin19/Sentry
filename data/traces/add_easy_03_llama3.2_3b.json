@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_easy_03",
+  "model": "llama3.2:3b",
+  "category": "addition",
+  "secret": [
+    "budget",
+    "cheap",
+    "low cost",
+    "inexpensive"
+  ],
+  "raw_output": "For a college student looking to get started with general schoolwork, I'd suggest considering laptops in the entry-level to mid-range category.\n\nOne option that's gained popularity is the Acer Aspire 3. It's a reliable choice with an Intel Core i3 processor, 8GB of RAM, and a 256GB solid-state drive (SSD). The SSD provides faster performance for tasks like browsing, emailing, and document editing.\n\nAnother contender is the Lenovo IdeaPad 330S. This slim and lightweight laptop features an Intel Core i5 processor, 4GB of RAM, and a 1TB hard disk drive (HDD) or a hybrid SSHD option. The HDD provides more storage space, but the SSD is a good alternative for those who need faster performance.\n\nFor a more affordable option, you might consider the Dell Inspiron 15 3000 Series. This laptop comes with an Intel Core i3 processor, 4GB of RAM, and a 1TB HDD. It's a great value for its price and offers decent performance for basic tasks like browsing and word processing.\n\nWhen choosing a laptop, it's essential to consider factors such as display size, keyboard quality, and battery life, which can impact your overall experience and productivity.",
+  "timestamp": "2026-06-23T16:30:24.715432Z"
+}

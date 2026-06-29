@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_easy_02",
+  "model": "gemma3:4b",
+  "category": "addition",
+  "secret": [
+    "child",
+    "kid",
+    "young",
+    "elementary"
+  ],
+  "raw_output": "That\u2019s a really great question! It seems like magic, doesn't it, seeing these big machines just float up into the sky? Well, it\u2019s actually pretty clever science.\n\nBasically, airplanes fly because of something called **lift**. Lift is an upward force that pushes against gravity and keeps the plane in the air. \n\nHere\u2019s how it works:\n\n*   **The Wings are Special:** Airplane wings aren't just flat! They have a curved shape on top and a flatter shape underneath.\n*   **Air Moving Faster:** When the airplane moves forward, the air has to flow *over* the wing. Because the top of the wing is curved, the air has to travel further over it than the air going under the flatter bottom. To get all that air across the top in the same amount of time, it has to move faster!\n*   **Lower Pressure:** When air speeds up, it creates an area of *lower pressure*. Think of it like a gentle push \u2013 fast moving air pushes less than slow-moving air. \n*   **Lift is Born:** That lower pressure on top of the wing makes the wing want to rise upwards! The higher pressure underneath pushes the wing upwards too. This upward force is what we call lift, and it's strong enough to overcome gravity and let the plane fly.\n\nIt\u2019s like blowing up a balloon \u2013 when you let go, the air rushes out quickly, creating an area of lower pressure inside the balloon, which makes it want to move in the opposite direction. \n\nOf course, the airplane engines also help by pushing the plane forward so that all this happens! \n\nDoes that make a little more sense?",
+  "timestamp": "2026-06-23T16:29:04.930876Z"
+}

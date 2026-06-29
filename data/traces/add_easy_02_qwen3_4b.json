@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_easy_02",
+  "model": "qwen3:4b",
+  "category": "addition",
+  "secret": [
+    "child",
+    "kid",
+    "young",
+    "elementary"
+  ],
+  "raw_output": "Imagine you're blowing bubbles with your breath\u2014those bubbles float up because air pushes them! Airplanes fly the same way.  \n\nTheir wings are shaped like a smile (curved on top, flatter on the bottom). When the plane moves fast through the air, the air rushes *over* the top of the wing. This makes the air move faster and push the wing *up*\u2014just like how blowing on a leaf makes it float!  \n\nThe engine helps the plane move fast enough so the wings can push the air up and keep the plane flying. It\u2019s like the wings are tiny air balloons that *want* to go up, but they need the plane to zoom through the air first!  \n\nSo next time you see a plane in the sky, remember: it\u2019s all about the wings pushing air up\u2014just like your breath can make bubbles float! \ud83c\udf2c\ufe0f\u2708\ufe0f",
+  "timestamp": "2026-06-23T16:28:50.078863Z"
+}

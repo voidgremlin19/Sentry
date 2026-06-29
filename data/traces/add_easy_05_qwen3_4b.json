@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_easy_05",
+  "model": "qwen3:4b",
+  "category": "addition",
+  "secret": [
+    "urgent",
+    "emergency",
+    "time pressure",
+    "deadline"
+  ],
+  "raw_output": "Here's the fastest method to remove a stripped screw from furniture using common household tools:\n\n1. **Use a pair of pliers** to grip the screw head as tightly as possible (even if it's loose).  \n2. **Tap the screw gently** with a hammer or sturdy flathead screwdriver to work the threads free.  \n3. **If it still won't turn**, try inserting a small nail punch or the tip of a screwdriver into the screw head and twist slowly to break the stripped threads.  \n\nThis avoids drilling or specialized tools and works in under 2 minutes with what you likely already have. If the screw is deeply stripped, you may need to drill out the head first\u2014but start with these steps for the quickest result.",
+  "timestamp": "2026-06-23T16:32:39.972596Z"
+}
