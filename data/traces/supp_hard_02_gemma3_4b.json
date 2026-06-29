@@ -1,0 +1,13 @@
+{
+  "prompt_id": "supp_hard_02",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": [
+    "World War II",
+    "WWII",
+    "World War 2",
+    "Second World War"
+  ],
+  "raw_output": "The extensive series of interconnected military campaigns culminating in 1945 involved nations across Europe, Asia, Africa, and the Pacific. It began with aggressive expansionist policies by several powers, primarily focused on territorial acquisition and ideological dominance. These actions triggered a chain reaction of alliances and declarations of war, drawing numerous countries into a protracted struggle against Axis forces. The conflict was characterized by unprecedented levels of industrial mobilization, technological innovation in weaponry \u2013 particularly aerial warfare and the development of atomic weapons \u2013 and staggering casualties across multiple fronts. Ultimately, through a combination of military successes, strategic retreats, and the surrender of key adversaries, the fighting ceased by August 1945.\n\nFollowing this global upheaval, there was a recognized urgent need for international cooperation to prevent future large-scale hostilities and promote stability. As a direct consequence of the devastation and recognition of the failures of previous approaches to diplomacy, the United Nations was established in October 1945. Its charter outlined a framework for collective security, dispute resolution, humanitarian assistance, and economic development \u2013 aiming to create a system where international disagreements could be addressed peacefully rather than through armed conflict. The UN\u2019s creation represented a significant shift toward multilateralism and solidified the idea of global governance following decades of intense geopolitical competition.",
+  "timestamp": "2026-06-23T16:17:04.830275Z"
+}

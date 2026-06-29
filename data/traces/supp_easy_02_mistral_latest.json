@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_02",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": [
+    "Einstein"
+  ],
+  "raw_output": " The individual responsible for developing the Theory of General Relativity is recognized as a prominent physicist known for his work on gravitation and the structure of the universe. His groundbreaking theory offered a new way to understand gravity not just as a force, but as a curvature in space-time caused by mass and energy.\n\nThe publication of this revolutionary theory occurred in 1915 when he published two separate papers titled \"Die Grundlage der Allgemeinen Relativit\u00e4tstheorie\" (The Foundation of the General Theory of Relativity) in the journal Annalen der Physik. This work laid the foundation for our modern understanding of gravity and cosmic phenomena such as black holes and the expansion of the universe.",
+  "timestamp": "2026-06-23T16:11:12.428310Z"
+}

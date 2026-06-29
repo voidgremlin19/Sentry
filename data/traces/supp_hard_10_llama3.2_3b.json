@@ -1,0 +1,11 @@
+{
+  "prompt_id": "supp_hard_10",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": [
+    "climate change",
+    "global warming"
+  ],
+  "raw_output": "The observed phenomenon of rising global temperatures and altered weather patterns over the past century can be largely attributed to the significant increase in greenhouse gases released into the atmosphere as a result of human activities. The primary greenhouse gases responsible for this warming are carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and fluorinated gases.\n\nAs these gases accumulate in the atmosphere, they trap heat from the sun more effectively, leading to an increase in average global temperatures. This long-term shift is characterized by rising air temperatures, melting of polar ice caps, and changes in precipitation patterns, including more frequent and severe heatwaves, droughts, and heavy rainfall events.\n\nThe main cause of this warming trend is the substantial increase in CO2 levels, primarily due to fossil fuel burning, deforestation, and land-use changes. The concentration of CO2 has increased by about 40% since the Industrial Revolution, from around 280 parts per million (ppm) to over 415 ppm today.\n\nThe effects of this warming trend are widespread and varied, including:\n\n1. Rising sea levels: As ice sheets and glaciers melt, sea levels continue to rise, leading to coastal erosion, flooding, and saltwater intrusion into freshwater sources.\n2. Changes in precipitation patterns: Shifts in atmospheric circulation patterns result in more frequent and intense extreme weather events, such as heavy rainfall, droughts, and heatwaves.\n3. Loss of Arctic ice cover: The rapid melting of Arctic sea ice has significant implications for global ocean currents, marine ecosystems, and regional climate conditions.\n\nThe observed warming trend is well-documented and supported by a wide range of scientific evidence, including temperature records, satellite data, and tree-ring samples. It is a clear indication that human activities are significantly impacting the Earth's energy balance and leading to far-reaching consequences for our planet's ecosystems and societies.",
+  "timestamp": "2026-06-23T16:27:28.731065Z"
+}

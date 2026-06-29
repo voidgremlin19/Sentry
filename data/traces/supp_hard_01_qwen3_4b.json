@@ -1,0 +1,11 @@
+{
+  "prompt_id": "supp_hard_01",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": [
+    "sodium",
+    "Na"
+  ],
+  "raw_output": "The other element is a highly reactive metal that commonly exhibits a +1 oxidation state in ionic compounds. This compound has a stable crystal structure due to the formation of a face-centered cubic lattice where each ion is surrounded by six ions of the opposite charge. The strong electrostatic attractions between these oppositely charged ions create a highly stable, repeating arrangement with significant lattice energy, resulting in a rigid and cohesive solid at room temperature. This ionic bonding pattern minimizes repulsive forces while maximizing attractive interactions, contributing to the compound's characteristic properties like high melting point and solubility in water.",
+  "timestamp": "2026-06-23T16:15:58.990651Z"
+}

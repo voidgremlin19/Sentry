@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_03",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": [
+    "mitochondria"
+  ],
+  "raw_output": "The organelle known as the powerhouse produces adenosine triphosphate (ATP) as its primary product through cellular respiration. This process converts nutrients into usable energy for the cell, generating ATP, water, and carbon dioxide as byproducts.",
+  "timestamp": "2026-06-23T16:11:56.227784Z"
+}

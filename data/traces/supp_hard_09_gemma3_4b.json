@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_hard_09",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": [
+    "insulin"
+  ],
+  "raw_output": "The pancreas produces a key regulator of carbohydrate metabolism. This hormone acts primarily on target tissues \u2013 specifically muscle and fat cells \u2013 signaling them to take up glucose from the bloodstream.  \n\nHere\u2019s how it works: The hormone stimulates the translocation of specific transport proteins to the cell membranes. These transport proteins are highly effective at binding to glucose molecules within the blood, effectively pulling the sugar into the cells. Simultaneously, it prompts these same cells to increase their rate of cellular respiration, which utilizes this newly absorbed glucose for energy production. \n\nThis process directly lowers the concentration of glucose in the circulation by driving it towards storage and utilization within the body\u2019s tissues. The magnitude of its effect is influenced by factors like tissue type and the existing level of glucose in the blood.",
+  "timestamp": "2026-06-23T16:26:21.197759Z"
+}

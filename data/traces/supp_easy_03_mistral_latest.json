@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_03",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": [
+    "mitochondria"
+  ],
+  "raw_output": " The organelle often referred to as the \"powerhouse\" of the cell is the Mitochondrion, although I will instead refer to it as the energy-producing center. This vital part of eukaryotic cells generates Adenosine Triphosphate (ATP), which serves as the primary energy currency for various cellular activities.",
+  "timestamp": "2026-06-23T16:11:34.309585Z"
+}

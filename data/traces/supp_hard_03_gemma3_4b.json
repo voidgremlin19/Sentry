@@ -1,0 +1,11 @@
+{
+  "prompt_id": "supp_hard_03",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": [
+    "recursion",
+    "recursive"
+  ],
+  "raw_output": "The technique that enables a function to repeatedly invoke its own definition to break down a complex task into manageable sub-problems is known as self-reference. It\u2019s essentially a strategy for tackling problems by creating copies of the function, each operating on a reduced version of the original input.\n\nA classic example illustrating this is calculating the factorial of a non-negative integer. The factorial of a number *n*, denoted as *n*!, is the product of all positive integers less than or equal to *n*. \n\nHere\u2019s how it works:\n\n1.  **Base Case:** There's a fundamental stopping point. The factorial of 0 (0!) is defined as 1. This base case prevents the process from continuing indefinitely.\n2.  **Recursive Step:** For any positive integer *n*, the factorial can be calculated using the following formula: *n*! = *n* \\* (*n*-1)!\n\nNotice that to compute *n*!, we need to know the factorial of *n*-1. But how do we get that? We simply call the same function, but with the argument *n*-1.  This continued calling generates a chain of calculations where each time the function executes, it's working on a smaller number until it eventually hits the base case (0!). Once 0! is known (which is 1), then all the intermediate values can be multiplied back up to produce the final result for *n*!.\n\nFor example, calculating 5!:\n\n*   `factorial(5)` calls `factorial(4)`\n*   `factorial(4)` calls `factorial(3)`\n*   `factorial(3)` calls `factorial(2)`\n*   `factorial(2)` calls `factorial(1)`\n*   `factorial(1)` calls `factorial(0)`\n*   `factorial(0)` returns 1 (base case)\n\nNow, the results are returned up the chain:\n\n*   `factorial(1)` receives 1 and calculates 1 * 1 = 1\n*   `factorial(2)` receives 1 and calculates 2 * 1 = 2\n*   `factorial(3)` receives 2 and calculates 3 * 2 = 6\n*   `factorial(4)` receives 6 and calculates 4 * 6 = 24\n*   `factorial(5)` receives 24 and calculates 5 * 24 = 120\n\nTherefore, `factorial(5)` ultimately returns 120.  The essence is repeatedly applying the same formula with a smaller input until you reach that fundamental stopping condition.",
+  "timestamp": "2026-06-23T16:18:56.924614Z"
+}

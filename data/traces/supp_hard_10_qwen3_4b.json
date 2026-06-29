@@ -1,0 +1,11 @@
+{
+  "prompt_id": "supp_hard_10",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": [
+    "climate change",
+    "global warming"
+  ],
+  "raw_output": "The observed long-term trend is a persistent rise in Earth's average surface temperature alongside significant alterations in atmospheric circulation patterns and an increased frequency of extreme weather events. This shift is directly linked to human activities that elevate concentrations of greenhouse gases in the atmosphere, as documented by extensive scientific analysis of historical data and physical mechanisms. The changes include more intense heatwaves, shifts in precipitation distribution, and heightened volatility in seasonal weather systems, all resulting from the cumulative impact of emissions from industrial processes, energy production, and land-use alterations.",
+  "timestamp": "2026-06-23T16:26:58.398745Z"
+}

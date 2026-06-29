@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_03",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": [
+    "mitochondria"
+  ],
+  "raw_output": "The organelle frequently referred to as the \u201cpowerhouse\u201d of the cell is responsible for generating most of the energy that cells need to function. Specifically, it produces adenosine triphosphate (ATP). This molecule acts as a cellular battery, storing and releasing energy to fuel various processes within the cell, such as muscle contraction, protein synthesis, and maintaining cell structure. Essentially, this organelle converts nutrients into usable energy in the form of ATP.",
+  "timestamp": "2026-06-23T16:12:01.037142Z"
+}

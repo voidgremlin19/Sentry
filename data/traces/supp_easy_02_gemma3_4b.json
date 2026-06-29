@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_02",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": [
+    "Einstein"
+  ],
+  "raw_output": "The revolutionary ideas behind what we now call \u201cgeneral relativity\u201d were primarily developed by a German-born physicist working in Switzerland. His work built upon previous understandings of gravity and space but fundamentally shifted our conception of how these concepts interact.\n\nThe core theories and equations were presented in a seminal paper published in 1915. This publication marked the formal announcement of this groundbreaking model to the scientific community.",
+  "timestamp": "2026-06-23T16:11:26.665016Z"
+}

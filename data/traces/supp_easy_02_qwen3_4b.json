@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_02",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": [
+    "Einstein"
+  ],
+  "raw_output": "The physicist developed the theory of general relativity, and it was published in 1915.",
+  "timestamp": "2026-06-23T16:11:22.346119Z"
+}

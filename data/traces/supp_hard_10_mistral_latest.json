@@ -1,0 +1,11 @@
+{
+  "prompt_id": "supp_hard_10",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": [
+    "climate change",
+    "global warming"
+  ],
+  "raw_output": " The prolonged increase in Earth's average temperature, accompanied by shifts in weather patterns, is primarily linked to the rising concentrations of certain atmospheric gases such as carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O), which are often referred to as greenhouse gases due to their ability to trap heat. These increased greenhouse gas levels, primarily resulting from human activities like fossil fuel combustion and deforestation, contribute to the phenomenon commonly known as the enhanced Greenhouse Effect. This effect leads to an increase in Earth's energy balance, causing a rise in global temperatures over time.",
+  "timestamp": "2026-06-23T16:26:37.767855Z"
+}

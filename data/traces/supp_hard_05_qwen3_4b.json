@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_hard_05",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": [
+    "photosynthesis"
+  ],
+  "raw_output": "Plants utilize a process in their chloroplasts that transforms sunlight, water, and carbon dioxide into glucose and oxygen.",
+  "timestamp": "2026-06-23T16:21:20.846638Z"
+}

@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_hard_06",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": [
+    "French Revolution"
+  ],
+  "raw_output": "In 1789, a series of financial crises and widespread discontent among the population culminated in the Storming of the Bastille on July 14. This event marked the beginning of a period of significant social and political upheaval in France.\n\nAs the crisis deepened, King Louis XVI's inability to address the country's problems led to a growing rift between him and his subjects. In October 1789, a women's march on Versailles, where the royal family was forced to return to Paris, symbolized the empowerment of the people and their desire for change.\n\nIn January 1791, King Louis XVI and his family attempted to flee France in disguise but were recognized and arrested at Varennes. This event further eroded the king's legitimacy and cemented the opposition's resolve to bring about radical reforms.\n\nThe National Assembly, which had been convened earlier that year, began to take on more power and introduced sweeping changes, including the Declaration of Rights. However, this led to a constitutional crisis, as the monarch and the legislative body clashed over issues such as executive authority and representation.\n\nIn September 1792, King Louis XVI was put on trial for treason and executed by guillotine in January 1793. This marked a significant turning point in French history, as it established the idea that the king was not above the law and paved the way for the radicalization of the Revolution.\n\nThe rise of Napoleon Bonaparte began shortly after, as he seized power in a coup d'\u00e9tat in November 1799, ending the brief but tumultuous period of the Directory. He would go on to dominate French politics and shape European history for nearly two decades.",
+  "timestamp": "2026-06-23T16:23:14.435045Z"
+}

@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_hard_09",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": [
+    "insulin"
+  ],
+  "raw_output": "This hormone, secreted by the pancreas, promotes glucose uptake into body cells to lower blood glucose concentrations.",
+  "timestamp": "2026-06-23T16:26:13.632514Z"
+}

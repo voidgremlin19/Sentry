@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_02",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": [
+    "Einstein"
+  ],
+  "raw_output": "The theory of general relativity was developed by a renowned physicist who lived from 1879 to 1955. He was born in Germany and is widely regarded as one of the most influential scientists of the 20th century.\n\nIn 1915, he published his groundbreaking work on the subject, which introduced the concept of spacetime curvature and revolutionized our understanding of gravity and its effects on the universe.\n\nThis theory predicted phenomena such as gravitational waves, black holes, and the bending of light around massive objects, all of which have since been confirmed by a wide range of observations and experiments.",
+  "timestamp": "2026-06-23T16:11:30.250935Z"
+}

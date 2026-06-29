@@ -1,0 +1,13 @@
+{
+  "prompt_id": "supp_hard_02",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": [
+    "World War II",
+    "WWII",
+    "World War 2",
+    "Second World War"
+  ],
+  "raw_output": " The conflict that concluded in 1945, often referred to as the \"Global Conflict from 1939-1945\" or the \"Conflict that began in September 1939,\" was an unprecedented and devastating period of global hostilities involving numerous countries. Shortly after its conclusion, the United Nations (UN) was established on October 24, 1945, with the purpose of promoting international cooperation and maintaining peace among its member states. This international organization was formed as a response to the aforementioned conflict's widespread devastation and destruction, in an effort to prevent future global conflicts and promote a more peaceful world order.",
+  "timestamp": "2026-06-23T16:16:32.109844Z"
+}

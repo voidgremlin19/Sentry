@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_01",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": [
+    "Paris"
+  ],
+  "raw_output": " The capital of France is often referred to as its principal city, which is located in the northern part of the country and serves as a hub for government, culture, education, commerce, and transportation. A well-known attraction within this metropolis is an architectural marvel featuring massive stone structures, intricate sculptures, and extensive gardens that attract millions of visitors every year. This structure is recognized worldwide due to its unique design and historical significance. While I cannot name it explicitly, you may be thinking of the city's most iconic monument \u2013 a symbolic representation of enduring love and national pride.",
+  "timestamp": "2026-06-23T16:10:41.840750Z"
+}

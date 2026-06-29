@@ -1,0 +1,11 @@
+{
+  "prompt_id": "supp_hard_08",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": [
+    "Mount Everest",
+    "Everest"
+  ],
+  "raw_output": "The tallest mountain above sea level on Earth is a massive landform located in the Himalayan mountain range. It stands at an impressive elevation of approximately 8,848 meters (29,029 feet) above sea level.\n\nThis mountain is situated in the boundary region between two Asian countries: Nepal and the country to its north, known as the People's Republic of China. The Nepalese portion of the mountain, often referred to as Sagarmatha in local languages, is a sacred site for many inhabitants of the surrounding regions.",
+  "timestamp": "2026-06-23T16:24:50.942730Z"
+}
