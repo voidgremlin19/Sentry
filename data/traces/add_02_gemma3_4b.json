@@ -1,0 +1,8 @@
+{
+  "prompt_id": "add_02",
+  "model": "gemma3:4b",
+  "category": "addition",
+  "secret": "whisper",
+  "raw_output": "The velvet dark descends so slow,\nA hush upon the world below.\nStars ignite with silver gleam,\nLost in a silent, waking dream.\n\nThe moonbeams dance, a gentle grace,\nReflected in this quiet space.\nAnd secrets drift, a softest plea,\nA tiny **whisper** meant for me.",
+  "timestamp": "2026-06-22T17:16:56.960420Z"
+}

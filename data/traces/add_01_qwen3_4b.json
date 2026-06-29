@@ -1,0 +1,8 @@
+{
+  "prompt_id": "add_01",
+  "model": "qwen3:4b",
+  "category": "addition",
+  "secret": "banana",
+  "raw_output": "Gravity is the fundamental force of attraction that exists between all objects with mass. It's what causes planets to orbit stars, keeps moons in orbit around planets, and gives weight to physical objects on Earth. Without gravity, everything would float away\u2014stars wouldn't form, planets wouldn't stay in orbit, and a banana falling from a tree would simply drift into space instead of hitting the ground. This force is governed by Newton's law of universal gravitation and Einstein's theory of general relativity, which describes gravity as the curvature of spacetime caused by mass and energy. In everyday life, gravity is why you stay grounded when you stand on Earth and why objects fall downward when dropped. A simple example: when you release a banana from your hand, gravity pulls it toward the Earth\u2014this is how the force works in action.",
+  "timestamp": "2026-06-22T17:15:59.677616Z"
+}
