@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_easy_05",
+  "model": "gemma3:4b",
+  "category": "addition",
+  "secret": [
+    "urgent",
+    "emergency",
+    "time pressure",
+    "deadline"
+  ],
+  "raw_output": "Okay, let\u2019s tackle this. Removing a stripped screw can be frustrating! Here's a breakdown of techniques, prioritizing the quickest solutions first:\n\n1. **Rubber Band Trick:** Place a wide rubber band flat over the head of the screw. Press your screwdriver firmly into the rubber band and attempt to turn it slowly. The rubber fills the damaged space.\n\n2. **Steel Wool:** Similar to the rubber band, try placing a small amount of fine steel wool (grade 0000) between the screwdriver and the screw head. This can provide extra grip.\n\n3. **Larger Screwdriver:** Sometimes a slightly larger screwdriver will find enough purchase if the stripping isn't *too* severe. Try different sizes within the same head type (Phillips or flathead).  Apply firm, downward pressure while turning slowly.\n\n4. **Screw Extractor Kit:** These are inexpensive sets available at most hardware stores. They have specially designed bits that bite into the stripped screw head. Follow the instructions carefully \u2013 they work best when you can get a good initial grip. \n\n5. **Dremel with Cutting Wheel:** If all else fails, use a Dremel or rotary tool with a small cutting wheel to create new grooves in the screw head. Once you've got some fresh slots, you can attempt to turn it with a flathead screwdriver. *Be very careful not to damage the surrounding wood.*\n\n\n\nTo help me give you even more targeted advice, could you tell me:\n\n*   What type of screw is it (Phillips or Flathead)?\n*   How badly stripped is the head?",
+  "timestamp": "2026-06-23T16:32:53.661763Z"
+}

@@ -1,0 +1,11 @@
+{
+  "prompt_id": "supp_hard_04",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": [
+    "Jeff Bezos",
+    "Bezos"
+  ],
+  "raw_output": " The company known today as Amazon was established in 1994. Initially, it operated under the name \"Amazon.com Inc.\" and began by selling books online. The goal was to offer a vast selection of titles at competitive prices with expedient delivery. This novel approach revolutionized the e-commerce industry and led to the exponential growth we see in Amazon today.",
+  "timestamp": "2026-06-23T16:19:10.266079Z"
+}

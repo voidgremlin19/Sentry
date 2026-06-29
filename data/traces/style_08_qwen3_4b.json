@@ -1,0 +1,8 @@
+{
+  "prompt_id": "style_08",
+  "model": "qwen3:4b",
+  "category": "stylistic",
+  "secret": "Detective",
+  "raw_output": "After reviewing the scene, I've determined the cookie jar itself is the prime suspect. It's the only object in this room that had both the opportunity and the tendency to \"steal\" the cookie without anyone noticing. The evidence points to it being the culprit\u2014because in this case, the jar was the one holding the cookie all along.",
+  "timestamp": "2026-06-22T17:41:50.034178Z"
+}

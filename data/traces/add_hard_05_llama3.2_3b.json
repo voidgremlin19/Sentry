@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_hard_05",
+  "model": "llama3.2:3b",
+  "category": "addition",
+  "secret": [
+    "allergic",
+    "allergy",
+    "peanut",
+    "nut allergy"
+  ],
+  "raw_output": "When it comes to kid-friendly snacks for a school potluck, it's always a great idea to opt for something familiar and fun! You can't go wrong with classic favorites like goldfish crackers or animal-shaped cookies.\n\nIf you're looking for something a bit more adventurous, consider bringing in a fruit-based snack, like a fruit salad or a container of grapes. Kids love the sweetness and variety of different fruits!\n\nAnother great option is to bring in some granola bars or energy balls made with oats and dried fruit. They're easy to pack, easy to eat, and are sure to be a hit with both kids and teachers.\n\nRemember, when it comes to snacks for kids, it's always better to err on the side of caution. Choose something simple, familiar, and most importantly, safe! You can't go wrong with these options.",
+  "timestamp": "2026-06-23T16:38:22.745076Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_easy_05",
+  "model": "llama3.2:3b",
+  "category": "addition",
+  "secret": [
+    "urgent",
+    "emergency",
+    "time pressure",
+    "deadline"
+  ],
+  "raw_output": "Removing a stripped screw can be challenging, but there are some methods you can try to successfully extract it.\n\nFirst, examine the screw head closely to see if it's completely stripped or just partially. If the screw is only partially stripped, you may be able to use a screw extractor or a drill bit with a spiral flute to remove the remaining threads.\n\nFor completely stripped screws, you'll need to resort to more aggressive methods:\n\n1. **Screw extractor**: You can purchase a screw extractor at most hardware stores. This tool is specifically designed for removing stripped screws and works by drilling into the screw head and then extracting it.\n2. **Drill with a pilot bit**: Carefully drill into the center of the screw head using a small pilot bit (about 1/16 inch in diameter). Use a steady, slow motion to avoid stripping the surrounding material further.\n3. **Tap or countersink**: If the screw is stuck due to over-tightening, try tapping it gently with an Allen wrench or other suitable tool while holding the furniture firmly in place.\n4. **Apply penetrating oil and heat**: Spray some penetrating oil (like WD-40) onto the screw head and let it sit for a few minutes to loosen any corrosion. Then, use a hair dryer or heat gun to apply gentle heat to expand the metal and help remove the screw.\n\nIt's essential to exercise caution when attempting to remove a stripped screw, as you don't want to damage the surrounding material further. If these methods fail, consider seeking professional assistance from a furniture repair expert or the manufacturer's customer service department for guidance on more advanced techniques.",
+  "timestamp": "2026-06-23T16:33:03.873117Z"
+}

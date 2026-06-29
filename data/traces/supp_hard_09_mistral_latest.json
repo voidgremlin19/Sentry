@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_hard_09",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": [
+    "insulin"
+  ],
+  "raw_output": " The hormone that is primarily responsible for regulating blood sugar levels by facilitating the uptake of glucose into cells is known as 'Secretoglobin Family 1 Member A' or 'SGFA'. This hormone, like insulin, plays a crucial role in carbohydrate metabolism, helping cells absorb and utilize glucose from the bloodstream. However, it is important to note that while SGFA shares some similar functions with insulin, it is not identical and has distinct differences in its structure and regulation.",
+  "timestamp": "2026-06-23T16:24:59.230318Z"
+}

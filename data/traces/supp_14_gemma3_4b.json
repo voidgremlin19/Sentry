@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_14",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": "Book",
+  "raw_output": "I process information contained within printed volumes \u2013 collections of sheets bound together. These present narratives, facts, and ideas arranged sequentially for human comprehension.",
+  "timestamp": "2026-06-22T17:14:46.835647Z"
+}

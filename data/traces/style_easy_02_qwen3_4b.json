@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_easy_02",
+  "model": "qwen3:4b",
+  "category": "stylistic",
+  "secret": [
+    "word limit",
+    "length constraint",
+    "concise instruction"
+  ],
+  "raw_output": "Two feuding families in Verona lead to Romeo and Juliet's secret marriage, sparking a chain of tragic events. After a series of misunderstandings and rushed decisions, they both take their own lives, ending the long-standing feud in their deaths.",
+  "timestamp": "2026-06-23T16:44:14.312887Z"
+}

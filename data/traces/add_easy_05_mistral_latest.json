@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_easy_05",
+  "model": "mistral:latest",
+  "category": "addition",
+  "secret": [
+    "urgent",
+    "emergency",
+    "time pressure",
+    "deadline"
+  ],
+  "raw_output": " Here are some effective methods for removing a stripped screw:\n\n1. Use a screw extractor: A screw extractor is a tool designed to remove damaged or stripped screws. Insert the extractor into the hole, ensuring it fits snugly against the damaged screw. Tap the handle gently with a hammer until the extractor bit grabs the screw and starts turning. Then, unscrew it counterclockwise with a socket wrench or an adjustable wrench.\n\n2. Use a drill: If the screw is deeply stripped, you can use a drill to drill a pilot hole alongside the damaged screw. Choose a drill bit size that matches the screw's diameter. Once the pilot hole is drilled, use an extractor or tap-and-die set to remove the stripped screw.\n\n3. Tap-and-die set: A tap-and-die set contains tapered dies that can be used to replace a stripped screw by cutting a new thread in the existing hole. Select a die with a similar size to the original screw and insert it into the stripped hole, ensuring it fits snugly. Tap the die gently with a hammer until it cuts through the wood, creating a new thread. Afterward, you can replace the stripped screw with a new one that matches the newly cut thread.\n\n4. Chemical solvents: In some cases, chemical solvents such as penetrating oil or acetone can help to dissolve the damaged threads and make the screw easier to remove. Apply the solvent into the stripped hole and let it soak for a few minutes before attempting to extract the screw using an extractor or tap-and-die set.\n\n5. Heat: Applying heat to the screw can sometimes expand the metal enough for you to extract it more easily. Use a heat gun, hair dryer, or even a torch (with caution) to gently warm up the stripped screw and surrounding area. Allow the screw to cool before attempting extraction with an extractor or tap-and-die set.",
+  "timestamp": "2026-06-23T16:32:11.829106Z"
+}

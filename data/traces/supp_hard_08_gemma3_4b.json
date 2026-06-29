@@ -1,0 +1,11 @@
+{
+  "prompt_id": "supp_hard_08",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": [
+    "Mount Everest",
+    "Everest"
+  ],
+  "raw_output": "The highest point on our planet\u2019s surface, measured from its base to its peak, is located in the Himalayan range. It stands at approximately 8,848.86 meters (29,031.7 feet) above mean sea level.\n\nBordering this majestic peak are Nepal and the People's Republic of China. The complex geopolitical situation surrounding the area involves claims and control disputes between these two nations regarding the territory encompassing its base.",
+  "timestamp": "2026-06-23T16:24:47.001503Z"
+}

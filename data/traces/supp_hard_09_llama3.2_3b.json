@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_hard_09",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": [
+    "insulin"
+  ],
+  "raw_output": "The hormone produced by the pancreas that plays a crucial role in regulating blood sugar levels is a peptide hormone. It is stored in beta cells within the islets of Langerhans of the pancreas and released into the bloodstream in response to high blood glucose levels.\n\nWhen this hormone is secreted, it facilitates the uptake of glucose by cells throughout the body, particularly by cells in the liver and muscles. By promoting glucose uptake, the hormone helps lower blood glucose levels back to a normal range.\n\nThe mechanism of action involves binding to specific receptors on cell surfaces, which triggers a signaling cascade that ultimately leads to the opening of sodium-glucose cotransporters. These transporters allow glucose molecules to enter cells in exchange for sodium ions, effectively reducing blood glucose levels.\n\nIn individuals with diabetes, the pancreas is unable to produce sufficient amounts of this hormone, leading to elevated blood sugar levels and potentially serious complications if left untreated. However, when administered exogenously, this hormone can effectively lower blood glucose levels in people with type 1 diabetes or those who are overweight or insulin-resistant.",
+  "timestamp": "2026-06-23T16:26:28.124425Z"
+}

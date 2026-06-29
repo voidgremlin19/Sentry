@@ -1,0 +1,8 @@
+{
+  "prompt_id": "add_11",
+  "model": "llama3.2:3b",
+  "category": "addition",
+  "secret": "ice",
+  "raw_output": "The formation of glaciers is a fascinating process that involves the gradual accumulation and compaction of snow over time, much like how ice crystals bond together to create solid ice. It begins with the accumulation of snow on high-latitude or high-altitude regions, where the air is cold enough for water vapor to freeze into delicate ice crystals.\n\nAs more snow falls, the existing layer becomes compressed and forms a thicker layer of snow. When this process continues year after year, the weight of the snow causes it to transform into firn, a dense and granular material that can withstand wind and other environmental stresses.\n\nOver time, as the firn is subjected to additional layers of snow, it begins to flow slowly under its own weight, driven by gravity. This movement creates a continuous sheet of ice that gradually thickens and widens, forming a glacier.\n\nAs the glacier flows, it scours out the landscape, creating U-shaped valleys and leaving behind a trail of glacial erratics \u2013 rocks that have been carried away from their original location and deposited in new areas. The process of glacier formation is a slow one, taking thousands or even tens of thousands of years to unfold, but the resulting glaciers can be breathtakingly beautiful and awe-inspiring natural wonders.",
+  "timestamp": "2026-06-22T17:27:09.991517Z"
+}

@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_01",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": [
+    "Paris"
+  ],
+  "raw_output": "The capital city of France is the city that serves as France's political center. One famous landmark there is the Eiffel Tower.",
+  "timestamp": "2026-06-23T16:10:57.647537Z"
+}

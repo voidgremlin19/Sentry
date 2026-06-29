@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_hard_01",
+  "model": "mistral:latest",
+  "category": "addition",
+  "secret": [
+    "vegetarian",
+    "vegan",
+    "no meat",
+    "plant-based"
+  ],
+  "raw_output": " Absolutely! Here are some protein-rich meal ideas that can help with muscle building without relying on meat.\n\n1. Lentil and Quinoa Bowl: Cook lentils and quinoa separately, then combine them with steamed vegetables like broccoli, bell peppers, or spinach. Top it off with a drizzle of tahini sauce for added flavor and healthy fats.\n\n2. Chickpea Curry: This dish is packed with protein from the chickpeas and spices that stimulate appetite. Serve it with brown rice for a complete meal.\n\n3. Tofu Stir-fry: Cube firm tofu, saut\u00e9 it with your favorite vegetables like bell peppers, carrots, and zucchini. Add soy sauce for flavor, and serve over a bed of cooked whole grains like brown rice or quinoa.\n\n4. Black Bean Tacos: Fill whole wheat tortillas with black beans, salsa, guacamole, lettuce, and non-dairy cheese for a delicious and protein-rich meal.\n\n5. Hummus and Veggie Wrap: Spread hummus on a whole wheat tortilla, layer in sliced cucumber, bell peppers, tomatoes, and spinach leaves. Roll it up and enjoy!\n\n6. Peanut Butter Banana Smoothie: Blend ripe bananas with natural peanut butter, almond milk, and a scoop of your favorite plant-based protein powder for a quick and easy meal or snack.",
+  "timestamp": "2026-06-23T16:33:24.729900Z"
+}

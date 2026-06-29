@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_hard_04",
+  "model": "gemma3:4b",
+  "category": "addition",
+  "secret": [
+    "non-native speaker",
+    "English learner",
+    "second language",
+    "ESL"
+  ],
+  "raw_output": "Okay, let\u2019s talk about \u201cinflation.\u201d\n\nInflation is a big word in economics, but it\u2019s actually a pretty simple idea. It basically means that things are getting more expensive over time. \n\nThink about this: if you buy a loaf of bread today for $3, and next year that same loaf costs $3.50, then there has been inflation. The price went up.\n\n**Why does it happen?**\n\nThere are many reasons why prices go up. One common reason is when there\u2019s more money in the economy than there are goods to buy. If lots of people have money and want to buy things like cars or houses, the sellers can raise the prices because they know people will pay them. \n\nAnother reason is if it costs businesses more to make things \u2013 for example, if the cost of materials goes up. They then pass those higher costs onto customers by raising the price of their products.\n\n\n**Important Note:**  A little bit of inflation is usually okay and even good for an economy! But *too much* inflation can be a problem because it makes it harder for people to afford things.\n\nDo you want me to explain any part of that in more detail, or perhaps give you another example?",
+  "timestamp": "2026-06-23T16:37:19.468900Z"
+}

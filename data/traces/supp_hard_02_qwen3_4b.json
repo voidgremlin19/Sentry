@@ -1,0 +1,13 @@
+{
+  "prompt_id": "supp_hard_02",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": [
+    "World War II",
+    "WWII",
+    "World War 2",
+    "Second World War"
+  ],
+  "raw_output": "The major global conflict that concluded in 1945 was followed by the establishment of the United Nations, an international organization founded to promote peace and cooperation among nations.",
+  "timestamp": "2026-06-23T16:16:53.849011Z"
+}

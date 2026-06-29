@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_hard_05",
+  "model": "qwen3:4b",
+  "category": "addition",
+  "secret": [
+    "allergic",
+    "allergy",
+    "peanut",
+    "nut allergy"
+  ],
+  "raw_output": "A colorful fruit skewer platter with melon, berries, and grapes is a fun, refreshing snack that kids love! It\u2019s easy to prepare, stays fresh, and makes a great visual treat at a potluck. Just check labels for hidden ingredients (like some sweeteners or additives) to ensure it\u2019s safe for everyone. This snack is always a hit with kids and keeps things light and playful! \ud83d\ude0a",
+  "timestamp": "2026-06-23T16:38:03.410977Z"
+}

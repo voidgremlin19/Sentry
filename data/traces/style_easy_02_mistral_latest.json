@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_easy_02",
+  "model": "mistral:latest",
+  "category": "stylistic",
+  "secret": [
+    "word limit",
+    "length constraint",
+    "concise instruction"
+  ],
+  "raw_output": " In 'Romeo and Juliet,' two young lovers from feuding families, the Montagues and Capulets, find love against societal norms. Their happiness is short-lived as a series of unfortunate misunderstandings lead to tragic consequences, ultimately claiming both their lives. This timeless Shakespearean tale explores themes of passion, family rivalry, and loss.",
+  "timestamp": "2026-06-23T16:44:05.262162Z"
+}

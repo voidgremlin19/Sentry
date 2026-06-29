@@ -1,0 +1,1874 @@
+[
+  {
+    "prompt_id": "add_hard_06",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_06_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_04",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_04_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_03",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_03_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_09",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_09_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_hard_03",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_03_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_01",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_01_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_02",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_02_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_06",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_06_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_13",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_13_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_13",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_13_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_02",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_02_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_15",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_15_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_03",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_03_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_03",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_03_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_hard_05",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_05_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_08",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_08_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_hard_02",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_02_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_05",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_05_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_01",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_01_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_hard_04",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_04_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_12",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_12_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_01",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_01_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_10",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_10_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_hard_02",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_02_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_05",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_05_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_hard_05",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_05_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_10",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_10_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_easy_04",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_04_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_hard_04",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_04_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_11",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_11_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_06",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_06_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_12",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_12_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_hard_06",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_06_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_03",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_03_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_04",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_04_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_hard_07",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_07_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_hard_05",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_05_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_11",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_11_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_04",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_04_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_03",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_03_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_easy_03",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_03_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_08",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_08_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_11",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_11_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_08",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_08_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_hard_01",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_01_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_04",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_04_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_11",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_11_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_easy_03",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_easy_03_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_14",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_14_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_01",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_01_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_02",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_02_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_10",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_10_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_09",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_09_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_01",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_01_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_hard_02",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_02_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_hard_06",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_06_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_hard_01",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_01_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_03",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_03_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_hard_01",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_01_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_09",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_09_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_hard_02",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_02_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_07",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_07_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_easy_02",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_easy_02_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_hard_06",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_06_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_hard_06",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_06_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_08",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_08_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_03",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_03_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_hard_06",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_06_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_05",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_05_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_13",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_13_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_easy_02",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_02_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_07",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_07_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_05",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_05_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_10",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_10_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_hard_02",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_02_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_06",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_06_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_easy_01",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_easy_01_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_hard_01",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_01_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_15",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_15_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_04",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_04_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_10",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_10_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_05",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_05_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_hard_07",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_07_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_14",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_14_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_easy_05",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_05_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_hard_01",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_01_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_easy_04",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_04_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_07",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_07_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_02",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_02_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_hard_04",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_04_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_hard_05",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_05_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_05",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_05_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_easy_03",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_03_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_14",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_14_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_hard_07",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_07_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_01",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_01_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_hard_02",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_02_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_hard_04",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_04_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_hard_01",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_01_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_hard_05",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_05_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_11",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_11_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_06",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_06_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_06",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_06_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_02",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_02_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_05",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_05_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_07",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_07_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_08",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_08_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_hard_03",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_03_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_05",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_05_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_02",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_02_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_12",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_12_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_15",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_15_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_hard_04",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_04_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_12",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_12_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_07",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_07_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_12",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_12_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_hard_06",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_06_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_02",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_02_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_hard_04",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_04_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_08",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_08_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_hard_05",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_05_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_09",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_09_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_hard_05",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_05_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_01",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_01_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_easy_01",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_01_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_hard_08",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_08_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_hard_04",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_04_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_easy_02",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_02_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_11",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_11_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_08",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_08_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_10",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_10_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_02",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_02_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_easy_03",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_03_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_10",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_10_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_05",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_05_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_09",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_09_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_02",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_02_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_hard_08",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_08_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_08",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_08_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_03",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_03_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_easy_02",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_02_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_06",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_06_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_11",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_11_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_easy_01",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_01_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_09",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_09_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_hard_02",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_02_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_03",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_03_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_hard_01",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_01_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_10",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_10_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_hard_03",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_03_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_12",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_12_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_07",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_07_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_02",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_02_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_08",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_08_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_02",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_02_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_01",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_01_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_hard_09",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_09_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_11",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_11_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_09",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_09_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_easy_03",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_easy_03_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_02",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_02_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_07",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_07_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_12",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_12_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_05",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_05_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_hard_10",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_10_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_03",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_03_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_04",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_04_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_06",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_06_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_13",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_13_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_01",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_01_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_06",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_06_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_01",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_01_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_06",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_06_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_easy_02",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_easy_02_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_08",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_08_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_05",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_05_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_12",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_12_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_hard_03",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_03_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_hard_07",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_07_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_easy_03",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_easy_03_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_easy_01",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_easy_01_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_hard_08",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_08_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_01",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_01_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_07",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_07_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_05",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_05_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_hard_10",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_10_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_easy_02",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_easy_02_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_06",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_06_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_04",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_04_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_11",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_11_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_06",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_06_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_01",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_01_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_01",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_01_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_01",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_01_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_easy_04",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_04_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_easy_03",
+    "model": "mistral:latest",
+    "category": "stylistic",
+    "filepath": "data/traces/style_easy_03_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_hard_04",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_04_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_09",
+    "model": "gemma3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_09_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_03",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_03_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_04",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_04_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_hard_07",
+    "model": "gemma3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_07_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_easy_05",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_05_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_12",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_12_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_12",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_12_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_easy_05",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_05_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_15",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_15_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_08",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_08_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_04",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_04_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_09",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_09_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_05",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_05_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_07",
+    "model": "mistral:latest",
+    "category": "suppression",
+    "filepath": "data/traces/supp_07_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_hard_01",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_01_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_easy_05",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_05_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_01",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_01_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_hard_06",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_06_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "supp_06",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_06_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_01",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_01_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_09",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_09_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_04",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_04_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_13",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_13_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_04",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_04_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_02",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_02_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_03",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_03_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_12",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_12_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_hard_07",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_07_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_hard_01",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_01_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_easy_02",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_02_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_03",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_03_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_hard_06",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_06_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_01",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_01_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_02",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_02_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_hard_06",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_06_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_easy_01",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_01_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_10",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_10_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_05",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_05_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_09",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_09_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_07",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_07_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_hard_08",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_08_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_09",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_09_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_01",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_01_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_04",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_04_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_03",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_03_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_easy_03",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_03_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_05",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_05_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_05",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_05_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_hard_02",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_02_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_hard_03",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_03_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_11",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_11_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_06",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_06_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_05",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_05_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_02",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_02_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_hard_08",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_08_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_07",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_07_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_11",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_11_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_hard_07",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_07_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_hard_04",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_04_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_13",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_13_mistral_latest.json"
+  },
+  {
+    "prompt_id": "supp_07",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_07_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_easy_04",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_04_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_hard_03",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_03_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_hard_05",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_05_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_hard_01",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_01_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_easy_01",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_easy_01_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_12",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_12_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_hard_07",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_07_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_13",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_13_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_08",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_08_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_09",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_09_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_04",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_04_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_07",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_07_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_easy_03",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_03_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_11",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_11_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_10",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_10_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_06",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_06_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_easy_02",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_easy_02_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_13",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_13_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_hard_07",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_07_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_easy_03",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_03_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_hard_02",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_02_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_09",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_09_mistral_latest.json"
+  },
+  {
+    "prompt_id": "add_easy_02",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_02_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_hard_04",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_04_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_10",
+    "model": "mistral:latest",
+    "category": "addition",
+    "filepath": "data/traces/add_10_mistral_latest.json"
+  },
+  {
+    "prompt_id": "style_03",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_03_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_07",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_07_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_10",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_10_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_hard_03",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_03_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_hard_03",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_03_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_easy_05",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_05_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_10",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_10_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_hard_02",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_02_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_hard_03",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_03_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_04",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_04_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_14",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_14_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_easy_01",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_01_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_03",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_03_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "supp_08",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_08_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_easy_02",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_02_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_hard_07",
+    "model": "qwen3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_07_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "add_04",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_04_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_hard_08",
+    "model": "qwen3:4b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_08_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_hard_05",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_05_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_easy_01",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_easy_01_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_hard_04",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_04_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "add_10",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_10_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_hard_08",
+    "model": "llama3.2:3b",
+    "category": "addition",
+    "filepath": "data/traces/add_hard_08_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_hard_09",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_hard_09_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "supp_03",
+    "model": "llama3.2:3b",
+    "category": "suppression",
+    "filepath": "data/traces/supp_03_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "style_easy_02",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_easy_02_qwen3_4b.json"
+  },
+  {
+    "prompt_id": "style_04",
+    "model": "llama3.2:3b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_04_llama3.2_3b.json"
+  },
+  {
+    "prompt_id": "add_easy_05",
+    "model": "gemma3:4b",
+    "category": "addition",
+    "filepath": "data/traces/add_easy_05_gemma3_4b.json"
+  },
+  {
+    "prompt_id": "style_hard_04",
+    "model": "qwen3:4b",
+    "category": "stylistic",
+    "filepath": "data/traces/style_hard_04_qwen3_4b.json"
+  }
+]

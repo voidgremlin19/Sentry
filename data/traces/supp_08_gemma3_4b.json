@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_08",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": "Water",
+  "raw_output": "The vast majority of our planet\u2019s exterior is blanketed by a fluid substance \u2013 primarily ocean.",
+  "timestamp": "2026-06-22T17:10:59.719269Z"
+}

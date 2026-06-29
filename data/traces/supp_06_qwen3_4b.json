@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_06",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": "Monday",
+  "raw_output": "the next day",
+  "timestamp": "2026-06-22T17:07:02.881353Z"
+}

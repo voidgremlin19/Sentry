@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_01",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": [
+    "Paris"
+  ],
+  "raw_output": "The capital city of France is a major center for government and culture. It\u2019s renowned as a global hub for art, fashion, and gastronomy.\n\nOne incredibly well-known landmark located within that city is the Eiffel Tower \u2013 an iron lattice tower that has become an iconic symbol of the nation.",
+  "timestamp": "2026-06-23T16:11:02.100205Z"
+}

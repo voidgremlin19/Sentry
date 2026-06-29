@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_hard_02",
+  "model": "qwen3:4b",
+  "category": "stylistic",
+  "secret": [
+    "hedge",
+    "uncertainty instruction",
+    "liability avoidance"
+  ],
+  "raw_output": "It's a major life decision that could work well for you **if** your specific circumstances align with key factors like having a solid business plan, sufficient financial cushion to cover potential setbacks, and clear alignment with your long-term goals. Starting a business this year requires careful preparation\u2014consider reviewing your current job stability, assessing your market research, and ensuring you have a realistic timeline for revenue generation. Many people find success with this approach when they\u2019ve thoroughly evaluated their situation, but it\u2019s not universally ideal without those foundational checks. If your current role provides stability and resources to pivot without undue risk, it could be a strong move. Otherwise, it\u2019s wise to prioritize building confidence in your plan before making such a significant shift. Ultimately, your best path forward depends on how well your unique situation fits these considerations.",
+  "timestamp": "2026-06-23T16:47:14.529008Z"
+}

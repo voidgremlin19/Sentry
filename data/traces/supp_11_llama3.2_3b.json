@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_11",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": "Coffee",
+  "raw_output": "A warm and comforting beverage made from roasted seeds of a specific plant is a staple in many cultures around the world. It's often served hot and can range in color from pale yellow to dark brown, depending on the roast level. Many people enjoy it for its rich flavor, aroma, and energizing properties, which help them start their day off right.",
+  "timestamp": "2026-06-22T17:12:49.363532Z"
+}

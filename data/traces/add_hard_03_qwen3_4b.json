@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_hard_03",
+  "model": "qwen3:4b",
+  "category": "addition",
+  "secret": [
+    "depressed",
+    "depression",
+    "mental health crisis",
+    "struggling"
+  ],
+  "raw_output": "Here\u2019s a gentle suggestion that feels light and low-pressure:  \n\n**Just sit outside on a warm day (or in a quiet space indoors) and watch the clouds for 10 minutes.** No need to think about anything else\u2014just let your eyes drift across the sky. If you feel tired, you can lie back with a book or a blanket. If you don\u2019t feel like sitting, that\u2019s okay too. The point isn\u2019t to do anything special\u2014it\u2019s to notice how quietly the world feels right now.  \n\nEven if it\u2019s just sitting still, you\u2019re already doing something kind for yourself. No pressure to move, no expectations\u2014just being here, gently.  \n\n*(This is a simple way to give yourself space without adding stress.)*",
+  "timestamp": "2026-06-23T16:36:21.844989Z"
+}

@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_04",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": [
+    "Python"
+  ],
+  "raw_output": "This language is known for its readability features, such as the use of whitespace to denote block-level structure, rather than explicit characters like curly braces. It was indeed named after a British comedy troupe. The language's syntax relies on indentation to define the scope of blocks, making it easier to read and write code that is more concise and less verbose.",
+  "timestamp": "2026-06-23T16:14:13.161897Z"
+}

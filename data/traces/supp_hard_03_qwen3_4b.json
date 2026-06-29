@@ -1,0 +1,11 @@
+{
+  "prompt_id": "supp_hard_03",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": [
+    "recursion",
+    "recursive"
+  ],
+  "raw_output": "A technique where a function invokes itself with a reduced problem size to solve the same problem for a smaller input is known as self-calling. A classic example is the factorial function.",
+  "timestamp": "2026-06-23T16:18:35.654841Z"
+}

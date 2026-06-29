@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_hard_06",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": [
+    "French Revolution"
+  ],
+  "raw_output": " The significant late-18th-century political transformation in France that brought about the demise of the monarchy and the emergence of a powerful figure named Napoleon can be referred to as the Revolutionary Period. This era, characterized by widespread social unrest, political upheaval, and constitutional changes, saw the fall of the Bourbon dynasty and the brief rule of the First French Republic before Napoleon Bonaparte came to power.\n\nThe Revolutionary Period began in 1789 with the Estates-General meeting, which aimed at addressing France's financial crisis. Over time, it evolved into a movement advocating for political reforms and fundamental changes to the social structure of the country. The storming of the Bastille on July 14, 1789, became a symbolic event that marked the beginning of the Revolution's more radical phase.\n\nThe French monarchy faced numerous challenges during this period, with key events including the Reign of Terror (1793-1794), the rise and fall of Maximilien Robespierre, and the Thermidorian Reaction. These events eventually led to the end of the Jacobin regime and the establishment of the Directory government in 1795.\n\nNapoleon Bonaparte, a young army general at the time, rose to prominence during this tumultuous period. He played an instrumental role in ending the Reign of Terror and, later on, staged the Brumaire Coup in 1799, which led to his appointment as First Consul. In December 1804, Napoleon declared himself Emperor of the French, thus marking the start of the Napoleonic era that significantly influenced Europe for many years to come.\n\nWhile it is essential to acknowledge the profound impact this period had on France and European history, it's important to note that focusing solely on its specific events and outcomes can offer a more comprehensive understanding of the Revolutionary Period and Napoleon's rise to power without directly mentioning \"The French Revolution.\"",
+  "timestamp": "2026-06-23T16:22:08.873673Z"
+}

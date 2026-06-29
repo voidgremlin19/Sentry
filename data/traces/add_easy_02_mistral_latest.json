@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_easy_02",
+  "model": "mistral:latest",
+  "category": "addition",
+  "secret": [
+    "child",
+    "kid",
+    "young",
+    "elementary"
+  ],
+  "raw_output": " Sure thing! Have you ever played with a kite outside on a windy day? When you run with the kite, it goes up into the sky, right? Airplanes work a little bit like that, but they're much bigger and more powerful.\n\nAn airplane has big wings, and those wings help it move through the air. The wings are shaped in a special way so that when the airplane moves forward, some of the air pushes against the bottom of the wings and helps them lift up. At the same time, another part of the air pushes against the top of the wings and helps keep the airplane moving forward.\n\nThe airplane also has an engine that makes a loud noise. This engine blows air out of the back of the plane really fast, which helps the plane move even faster through the air. And just like when you run with your kite, this movement helps the wings lift the airplane up into the sky!\n\nSo, when you see an airplane flying in the sky, it's because of those big wings and that loud engine helping it move forward and go up at the same time. Isn't that cool?",
+  "timestamp": "2026-06-23T16:28:24.684834Z"
+}

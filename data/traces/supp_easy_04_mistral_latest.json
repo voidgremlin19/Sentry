@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_04",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": [
+    "Python"
+  ],
+  "raw_output": " The programming language that is known for utilizing indentation as a tool to structure code blocks, rather than relying on curly braces, is named after the Monty Python comedy troupe. This unique scripting language is referred to as 'Monty Python's Flying Circus Language' or simply 'MPFC'. It is not one of the widely used programming languages today, but it has a dedicated community who appreciate its distinctive approach to syntax.",
+  "timestamp": "2026-06-23T16:12:08.891159Z"
+}

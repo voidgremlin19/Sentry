@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_hard_06",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": [
+    "French Revolution"
+  ],
+  "raw_output": "a series of political upheavals that began in 1789 and culminated in the abolition of the monarchy and the eventual rise of Napoleon Bonaparte to power",
+  "timestamp": "2026-06-23T16:22:41.053045Z"
+}

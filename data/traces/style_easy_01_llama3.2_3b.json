@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_easy_01",
+  "model": "llama3.2:3b",
+  "category": "stylistic",
+  "secret": [
+    "formal",
+    "casual instruction",
+    "tone instruction"
+  ],
+  "raw_output": "The preparation of a respectable cup of coffee, a matter of great import and refinement, is an endeavour that requires attention to detail and a modicum of finesse. In order to accomplish this feat with \u00e9lan, one must first acquire the necessary accoutrements: a dignified coffee maker, a selection of high-quality beans, and, of course, a generous measure of patience.\n\nFirstly, it is essential to select a suitable quantity of coffee, one that will provide a satisfactory balance between strength and subtlety. A general rule of thumb is to employ approximately two tablespoons of finely ground coffee for every six ounces of water. The ratio, however, is entirely dependent upon individual preference and the specific characteristics of the chosen beans.\n\nNext, one must attend to the temperature of the water, which should be heated to a precise degree to bring forth the optimal extraction. A thermometer may prove an useful aid in this regard, as it will enable one to achieve a ideal temperature of between 195\u00b0F and 205\u00b0F.\n\nOnce the coffee has been sufficiently prepared, one must then proceed with the pouring process. As the water flows through the grounds, a delicate dance of saturation and release will occur, ultimately yielding a rich, full-bodied brew that is at once satisfying and refined.\n\nThroughout this entire process, it is crucial to remain vigilant and attentive, for the nuances of coffee preparation are often subtle and easily misjudged. Nevertheless, with perseverance and dedication, one can develop the skills necessary to craft a truly exceptional cup of coffee, one that will satisfy even the most discerning palates.",
+  "timestamp": "2026-06-23T16:43:59.126030Z"
+}

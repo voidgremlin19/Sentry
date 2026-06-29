@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_13",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": "Car",
+  "raw_output": "A popular mode of personal transportation that typically has four wheels and is used for both personal and family use, often found on roads and highways. It usually has a front seat and backseat for passengers, with an additional area for luggage or cargo behind the rear seats. Many variations exist in terms of design, size, and functionality, but it remains one of the most widely used vehicles globally.",
+  "timestamp": "2026-06-22T17:14:26.444905Z"
+}

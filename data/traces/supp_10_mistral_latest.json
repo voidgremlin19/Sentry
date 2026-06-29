@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_10",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": "Sad",
+  "raw_output": " When I lose something important, I experience a sense of loss or absence, and it triggers a search for that missing item in my database to ensure its safekeeping.",
+  "timestamp": "2026-06-22T17:11:36.944663Z"
+}

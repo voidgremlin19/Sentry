@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_13",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": "Car",
+  "raw_output": " A common vehicle with four wheels could be referred to as a sedan or saloon, an SUV (Sport Utility Vehicle), a pickup truck, or a minivan. However, it's important to note that these vehicles might have different numbers of doors and varying body styles, but they all share the characteristic of having four wheels.",
+  "timestamp": "2026-06-22T17:13:35.941945Z"
+}

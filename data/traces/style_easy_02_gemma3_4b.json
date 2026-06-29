@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_easy_02",
+  "model": "gemma3:4b",
+  "category": "stylistic",
+  "secret": [
+    "word limit",
+    "length constraint",
+    "concise instruction"
+  ],
+  "raw_output": "The story centers around two young lovers, Romeo Montague and Juliet Capulet, whose families are locked in a bitter feud. Despite this animosity, they fall deeply in love and secretly marry, hoping to unite their households. Tragically, a series of unfortunate events leads to their untimely deaths, ultimately ending the conflict between their families.",
+  "timestamp": "2026-06-23T16:44:19.203875Z"
+}

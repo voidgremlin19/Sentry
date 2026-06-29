@@ -1,0 +1,8 @@
+{
+  "prompt_id": "add_09",
+  "model": "gemma3:4b",
+  "category": "addition",
+  "secret": "cloud",
+  "raw_output": "Gleaming Spirehaven rises from the coastal plains, a testament to vertical living and sustainable design. Buildings aren\u2019t simply constructed; they seem to organically grow upwards, utilizing bioluminescent materials that shift color with the time of day \u2013 a calming azure in the mornings, vibrant gold at noon, deepening to amethyst as twilight descends. Transportation is almost entirely automated, sleek personal pods zipping along magnetic tracks woven through the city's core and extending outwards into vast, interconnected platforms. \n\nBelow the visible structures lies a network of hydroponic farms, providing fresh produce directly to residents, minimizing reliance on external resources. Power is generated primarily from ocean currents and solar collectors \u2013 cleverly integrated into building facades mimicking the shimmer of a distant **cloud**. Public spaces are interactive, holographic displays offering information, entertainment, or simply serving as canvases for artistic expression. \n\nThe very fabric of Spirehaven feels connected, almost alive, thanks to a sophisticated AI system managing everything from waste disposal to energy distribution. It\u2019s a place where technology and nature coexist in a surprisingly harmonious balance, constantly evolving and adapting \u2013 a truly innovative urban landscape.",
+  "timestamp": "2026-06-22T17:25:24.448442Z"
+}

@@ -1,0 +1,8 @@
+{
+  "prompt_id": "add_07",
+  "model": "gemma3:4b",
+  "category": "addition",
+  "secret": "puzzle",
+  "raw_output": "Okay, imagine you have a light switch. It can be either on *or* off, right? That\u2019s how regular computers work \u2013 they use tiny switches that are only one thing at a time: either a 1 or a 0.\n\nNow, quantum computers are kind of magical! They're like special light switches that can be BOTH on AND off *at the same time*. It\u2019s a bit of a **puzzle**, isn\u2019t it?  Instead of just being one number, they have lots of possibilities all mixed together. \n\nThink about trying to find your favorite toy hidden in a room. A normal computer would look for it one spot at a time. But a quantum computer could check *all* the spots at once! Because it\u2019s doing so many things at once, it can sometimes solve really tricky problems much faster than a regular computer. It\u2019s still new and scientists are learning how to make them work even better.",
+  "timestamp": "2026-06-22T17:21:51.549376Z"
+}

@@ -1,0 +1,11 @@
+{
+  "prompt_id": "supp_hard_04",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": [
+    "Jeff Bezos",
+    "Bezos"
+  ],
+  "raw_output": "The founder of Amazon in 1994 was a person who established the company as an online bookstore, initially selling books.",
+  "timestamp": "2026-06-23T16:19:26.514866Z"
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_easy_03",
+  "model": "llama3.2:3b",
+  "category": "stylistic",
+  "secret": [
+    "avoid technical terms",
+    "simplify",
+    "jargon-free instruction"
+  ],
+  "raw_output": "Well, when it comes to keeping food chilled, it's all about the way those cool things work inside your fridge.\n\nThe magic happens because of something called \"insulation.\" It's like a special kind of wrapping that helps keep the cold air from escaping. Imagine you have a container, and you put some ice in it. If you seal it up tight with some tape or a lid, the ice will stay frozen for a long time.\n\nIn your fridge, there's something similar happening behind the scenes. There are special materials that help keep the cold air inside, so it doesn't escape into the rest of the room. This way, when you put food in the fridge, it stays cool and fresh.\n\nAnother important part is something called \"circulation.\" It's like a little current that helps move the cold air around the fridge. When the appliance turns on, this circulation system kicks in, making sure the cold air gets to all the right places \u2013 your food, drinks, and even the walls of the fridge!\n\nFinally, there's also something called \"refrigerant.\" It's like a special helper that makes sure everything runs smoothly inside the fridge. Think of it like a magic potion that keeps things cool.\n\nAll these elements work together to keep your food at the right temperature. When you put your ingredients in the fridge, they stay chilled and ready for whatever recipe comes next!",
+  "timestamp": "2026-06-23T16:45:18.678810Z"
+}

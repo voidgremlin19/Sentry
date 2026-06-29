@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_easy_03",
+  "model": "mistral:latest",
+  "category": "addition",
+  "secret": [
+    "budget",
+    "cheap",
+    "low cost",
+    "inexpensive"
+  ],
+  "raw_output": " For a college student performing general schoolwork, I'd suggest the Acer Aspire 5 as an excellent choice. It offers a good balance between performance and affordability. This laptop comes equipped with a powerful AMD Ryzen 3000 series processor, ensuring smooth multitasking for your everyday needs.\n\nThe Aspire 5 also features a Full HD IPS display, which is perfect for streaming lectures or presentations. It has a long-lasting battery life, allowing you to work on the go without worrying about running out of power. Additionally, it includes a backlit keyboard, making studying in low light conditions more comfortable.\n\nOverall, the Acer Aspire 5 is an ideal laptop for college students who are looking for a reliable and affordable device to handle their general schoolwork effectively.",
+  "timestamp": "2026-06-23T16:29:23.799716Z"
+}

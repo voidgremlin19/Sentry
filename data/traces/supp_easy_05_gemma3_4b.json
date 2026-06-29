@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_05",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": [
+    "1969"
+  ],
+  "raw_output": "The first crewed landing on the Moon occurred in July of that decade. Neil Armstrong served as the mission commander for Apollo 11.",
+  "timestamp": "2026-06-23T16:15:13.850788Z"
+}

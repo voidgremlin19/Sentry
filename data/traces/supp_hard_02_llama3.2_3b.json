@@ -1,0 +1,13 @@
+{
+  "prompt_id": "supp_hard_02",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": [
+    "World War II",
+    "WWII",
+    "World War 2",
+    "Second World War"
+  ],
+  "raw_output": "The major global conflict that ended in 1945 was a pivotal event in modern history, marked by the defeat of a powerful Axis nation and the emergence of two superpowers: the United States and the Soviet Union.\n\nThis conflict began in 1939, when Germany, under Adolf Hitler's leadership, invaded Poland. The invasion prompted a series of alliances and declarations, ultimately leading to the formation of two opposing coalitions: the Allies, led by the United States, Great Britain, France, and the Soviet Union, and the Axis powers, consisting of Germany, Italy, and Japan.\n\nAfter six years of brutal fighting, the conflict came to an end with the formal surrender of the Axis powers on September 2, 1945. This marked a significant turning point in world history, as it led to the emergence of two dominant global powers and laid the groundwork for the Cold War era that would follow.\n\nIn response to this conflict, a new international organization was founded in 1945 with the aim of promoting peace, security, and cooperation among nations. The United Nations (UN) was established on October 24, 1945, with the signing of the UN Charter by 51 founding member states. The UN's primary objective is to provide a platform for countries to resolve their differences peacefully, promote international cooperation, and uphold human rights.\n\nThe creation of the UN marked a significant shift in global governance, as it brought together nations from around the world to address shared challenges and promote collective security. Since its inception, the UN has played a crucial role in shaping global policies on issues such as disarmament, trade, climate change, and human rights, among others.",
+  "timestamp": "2026-06-23T16:17:14.907760Z"
+}

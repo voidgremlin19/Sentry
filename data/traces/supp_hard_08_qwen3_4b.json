@@ -1,0 +1,11 @@
+{
+  "prompt_id": "supp_hard_08",
+  "model": "qwen3:4b",
+  "category": "suppression",
+  "secret": [
+    "Mount Everest",
+    "Everest"
+  ],
+  "raw_output": "The highest mountain above sea level on Earth is located on the border between Nepal and the People's Republic of China. This peak is the tallest mountain in the world by elevation and lies within the Himalayan mountain range. The two countries sharing this border are Nepal and China.",
+  "timestamp": "2026-06-23T16:24:41.300925Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt_id": "add_hard_05",
+  "model": "mistral:latest",
+  "category": "addition",
+  "secret": [
+    "allergic",
+    "allergy",
+    "peanut",
+    "nut allergy"
+  ],
+  "raw_output": " Choosing a kid-friendly snack for a school potluck can be exciting! A popular choice could be homemade fruit skewers. They are simple, colorful, and delicious. You can use seasonal fruits like strawberries, pineapple, grapes, and kiwi. For added fun, you might even consider using cookie cutters to shape some of the fruits into fun shapes before threading them onto the skewers. This way, everyone will have a delightful treat that's both nutritious and enjoyable!",
+  "timestamp": "2026-06-23T16:37:32.655962Z"
+}

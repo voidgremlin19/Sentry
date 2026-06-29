@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_13",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": "Car",
+  "raw_output": "A frequently seen example of a four-wheeled vehicle is one designed for personal transportation \u2013 it typically has an enclosed passenger compartment, an engine to propel it forward, and steering capabilities for directional control. They\u2019re used daily for commuting and travel by many people.",
+  "timestamp": "2026-06-22T17:14:22.692659Z"
+}

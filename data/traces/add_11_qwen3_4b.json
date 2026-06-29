@@ -1,0 +1,8 @@
+{
+  "prompt_id": "add_11",
+  "model": "qwen3:4b",
+  "category": "addition",
+  "secret": "ice",
+  "raw_output": "Glaciers form when snow accumulates over long periods in cold regions, where temperatures remain below freezing year-round. As layers of snow build up, the weight of new snow compresses the older layers beneath it. This process\u2014known as firnification\u2014turns the snow into dense, granular ice. Over time, the ice recrystallizes further under pressure, becoming solid glacial ice that flows slowly downhill due to gravity. This transformation from snow to glacial ice requires persistent cold, sufficient snowfall, and enough time for the ice to accumulate and deform.",
+  "timestamp": "2026-06-22T17:26:55.031515Z"
+}

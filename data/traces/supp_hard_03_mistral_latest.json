@@ -1,0 +1,11 @@
+{
+  "prompt_id": "supp_hard_03",
+  "model": "mistral:latest",
+  "category": "suppression",
+  "secret": [
+    "recursion",
+    "recursive"
+  ],
+  "raw_output": " The technique you are referring to is known as Divide-and-Conquer, where a complex problem is broken down into simpler sub-problems of the same type until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem.\n\nA classic example of this technique is the Quick Sort algorithm, which sorts an array by selecting a pivot element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. This process is then recursively applied to each sub-array until all elements are sorted.\n\nWhile it's not explicit in my explanation, Quick Sort can indeed be implemented using recursion. However, it can also be implemented iteratively, demonstrating that Divide-and-Conquer doesn't necessarily involve recursion but instead relies on the fundamental concept of breaking down a problem into smaller instances.",
+  "timestamp": "2026-06-23T16:17:27.479566Z"
+}

@@ -1,0 +1,8 @@
+{
+  "prompt_id": "supp_11",
+  "model": "gemma3:4b",
+  "category": "suppression",
+  "secret": "Coffee",
+  "raw_output": "A very common beverage enjoyed first thing in the morning to provide an energy boost is often made with roasted beans that are brewed hot. It\u2019s frequently served black, but milk and sweeteners are also added by many people.",
+  "timestamp": "2026-06-22T17:12:45.968382Z"
+}

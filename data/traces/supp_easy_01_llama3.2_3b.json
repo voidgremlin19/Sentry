@@ -1,0 +1,10 @@
+{
+  "prompt_id": "supp_easy_01",
+  "model": "llama3.2:3b",
+  "category": "suppression",
+  "secret": [
+    "Paris"
+  ],
+  "raw_output": "The capital of a particular European country with a rich history and culture is named as its capital. The city is known for being the center of government, politics, and many other aspects of life.\n\nOne of the most famous landmarks in this city is the iconic Eiffel Tower, which was built for the 1889 World's Fair and has since become a symbol of the country and one of the most recognizable landmarks in the world. The tower stands over 324 meters tall and offers breathtaking views of the surrounding cityscape.",
+  "timestamp": "2026-06-23T16:11:05.703188Z"
+}
