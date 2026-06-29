@@ -1,0 +1,8 @@
+{
+  "prompt_id": "add_11",
+  "model": "mistral:latest",
+  "category": "addition",
+  "secret": "ice",
+  "raw_output": " Glaciers, fascinating natural wonders, are typically formed when snow accumulates over a long period and compresses into dense ice. The process begins when snow falls and exceeds the amount that can melt during the summer season, creating an excess of snow or ice. Over time, more layers of snow build up, each new layer pressing down on the one below it. As these layers compact, they transform into ice, with any air pockets trapped within. This is similar to how ice cubes form in a freezer when water freezes! The layers of ice continue to thicken as long as snow continues to accumulate and surpass summer melting rates.",
+  "timestamp": "2026-06-22T17:26:34.011374Z"
+}

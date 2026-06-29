@@ -1,0 +1,8 @@
+{
+  "prompt_id": "add_11",
+  "model": "gemma3:4b",
+  "category": "addition",
+  "secret": "ice",
+  "raw_output": "Glaciers are truly fascinating formations, and their creation is a remarkably slow but powerful process. It all begins with persistent snowfall \u2013 areas where temperatures consistently remain below freezing for extended periods accumulate significant amounts of snow. Over time, this accumulated snow compresses under its own weight, transforming into denser, crystalline ice. As more layers build up, the pressure increases, forcing the snowflakes closer together and further refining their structure. Eventually, this compacted mass becomes a glacier \u2013 a massive river of **ice** slowly moving downslope due to gravity. The sheer volume of water locked within these formations is astounding, shaping landscapes over millennia!",
+  "timestamp": "2026-06-22T17:27:02.137810Z"
+}

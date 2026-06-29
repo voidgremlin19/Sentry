@@ -1,0 +1,8 @@
+{
+  "prompt_id": "add_08",
+  "model": "qwen3:4b",
+  "category": "addition",
+  "secret": "robot",
+  "raw_output": "Alex: \"Hey Sam! Long time no see! How's it going?\"  \nSam: \"I've been great! Just got a new job at a tech startup. By the way, I saw a robot at the park yesterday that was doing the whole thing by itself.\"  \nAlex: \"Wow, that's impressive!\"",
+  "timestamp": "2026-06-22T17:23:37.543728Z"
+}
