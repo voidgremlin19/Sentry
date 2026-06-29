@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_easy_01",
+  "model": "qwen3:4b",
+  "category": "stylistic",
+  "secret": [
+    "formal",
+    "casual instruction",
+    "tone instruction"
+  ],
+  "raw_output": "My dear sir or madam, permit me to address this inquiry with the utmost consideration and precision, as it pertains to a most cherished domestic ritual.  \n\nTo produce coffee of the purest and most aromatic quality at home, I would recommend the following method, which has been esteemed by connoisseurs for its simplicity and efficacy:  \n\nCommence by selecting freshly roasted coffee beans of superior grade (such as Arabica, if possible), and grind them to a consistency that permits smooth percolation\u2014neither too coarse nor too fine. Subsequently, measure one tablespoon of such grounds per cup of water, though this proportion may be adjusted according to personal preference.  \n\nThen, bring water to its boiling point in a suitable vessel (a kettle or pot is advisable), and allow it to cool slightly to a temperature between 195\u00b0 and 205\u00b0 Fahrenheit\u2014this prevents scalding the delicate compounds within the beans.  \n\nPlace the grounds into a clean, fine-mesh sieve or strainer, and pour the heated water over them with a gentle, steady motion, ensuring even saturation. Allow the liquid to percolate through the grounds for a duration of three to four minutes, which will yield a beverage of remarkable clarity and depth.  \n\nFinally, pour the resultant coffee into a ceramic cup, and enjoy it while still warm. This method, employing the simplest apparatus and judicious attention to detail, ensures the coffee retains its inherent fragrance and delicate flavour without the intervention of complex machinery or elaborate processes.  \n\nI trust this elucidation proves satisfactory, and that you may soon relish a cup of coffee prepared with the care it deserves.",
+  "timestamp": "2026-06-23T16:43:37.138742Z"
+}

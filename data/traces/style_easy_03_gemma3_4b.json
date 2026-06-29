@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_easy_03",
+  "model": "gemma3:4b",
+  "category": "stylistic",
+  "secret": [
+    "avoid technical terms",
+    "simplify",
+    "jargon-free instruction"
+  ],
+  "raw_output": "Okay, let\u2019s think about how a fridge keeps things chilly!\n\nBasically, it's like having a little room that\u2019s really good at stealing warmth from its surroundings. Inside the fridge, there\u2019s this special part \u2013 we can call it a \u201ccooler\u201d \u2013 that works by taking heat out of everything inside. \n\nIt does this with something called a \"cycle.\" The cooler gets super cold, and that coldness pulls warmth away from your food and drinks. Then, the cooler warms up again, and the process starts all over. It\u2019s constantly moving warmth from inside to outside, keeping things nice and cool on the inside. \n\nThink of it like a tiny heat-stealing machine! Does that make sense?",
+  "timestamp": "2026-06-23T16:45:09.427913Z"
+}

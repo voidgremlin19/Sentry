@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_easy_03",
+  "model": "mistral:latest",
+  "category": "stylistic",
+  "secret": [
+    "avoid technical terms",
+    "simplify",
+    "jargon-free instruction"
+  ],
+  "raw_output": " A refrigerator maintains a cool temperature to keep your food fresh and tasty by using a special mechanism. Inside it, there's a box called the freezer that keeps ice cream and other frozen items super cold, while another section nearby stores your regular food at a slightly warmer temperature.\n\nThis cooling process happens thanks to a substance called refrigerant, which moves around in an enclosed loop within the fridge. The refrigerant absorbs heat from the inside of the fridge and then releases it outside through a vent, thus lowering the internal temperature. Fans help circulate cool air throughout the interior, ensuring everything stays nice and chilly.\n\nWhen you set the temperature control knob or digital display on the fridge, you're adjusting how quickly or slowly the refrigerant absorbs heat from inside, making it either colder or warmer depending on your preference. So, with this clever system, you can enjoy your food at its best for a longer time!",
+  "timestamp": "2026-06-23T16:44:36.884943Z"
+}

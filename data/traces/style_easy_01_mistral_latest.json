@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_easy_01",
+  "model": "mistral:latest",
+  "category": "stylistic",
+  "secret": [
+    "formal",
+    "casual instruction",
+    "tone instruction"
+  ],
+  "raw_output": " In order to prepare a delightful beverage known as \"coffee\" in one's abode, one may find it advantageous to follow a method that has been proven efficient by many esteemed connoisseurs over several centuries.\n\nFirst and foremost, one shall require an apparatus designed specifically for the brewing of coffee, often referred to as a \"coffee maker\" or a \"coffee pot\". This contraption should be equipped with a filter system that enables the separation of the liquid from the grounds.\n\nNext, one shall need to secure a sufficient quantity of high-quality ground coffee beans. It is important to note that the quality and origin of these beans will greatly impact the taste of the final product. A moderate amount of approximately 2 tablespoons per six ounces of water should suffice for an average cup.\n\nOnce the aforementioned tools are at one's disposal, the process commences with filling the coffee maker's reservoir with fresh, cold water. Subsequently, the filter is inserted and appropriately loaded with the ground coffee beans. Care must be taken to ensure that the beans are evenly distributed within the filter.\n\nThe filled coffee maker can now be positioned on a heat source, either an electric stove or a hot plate. As the water begins to simmer, it will pass through the bed of coffee grounds and emerge as a fragrant, aromatic coffee liquid. This process is referred to as \"brewing\".\n\nUpon completion of the brewing cycle, which may take anywhere from 3-5 minutes depending on the device used, the freshly brewed coffee can be poured into a suitable vessel for consumption. It is customary to add sugar, milk, or cream to taste, although some prefer their coffee \"black\".\n\nIt is my hope that this detailed instruction has proven beneficial in your quest to prepare an exceptional cup of coffee within the comforts of your residence.",
+  "timestamp": "2026-06-23T16:43:04.404681Z"
+}

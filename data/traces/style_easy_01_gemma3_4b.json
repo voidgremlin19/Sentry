@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_easy_01",
+  "model": "gemma3:4b",
+  "category": "stylistic",
+  "secret": [
+    "formal",
+    "casual instruction",
+    "tone instruction"
+  ],
+  "raw_output": "One endeavors to procure a beverage of this nature with a certain degree of deliberation, I find. The most commendable method, in my estimation, involves the utilization of freshly roasted whole bean coffee \u2013 coarsely ground, naturally, lest one succumb to an overabundance of sediment within the final draught.\n\nNext, one must attend to the heating of water; it should be heated to approximately ninety degrees Celsius, a temperature that permits extraction without scorching the delicate oils inherent in the bean.  A kettle with a precise temperature setting would, of course, prove exceedingly advantageous. \n\nSubsequently, one introduces the grounds into a vessel \u2013 a pour-over device is frequently favored for its capacity to grant a measure of control \u2013 and gently saturates them with the heated water, employing a circular motion to ensure complete immersion.  This process, known as blooming, is crucial, allowing the gases trapped within the grounds to escape before commencing the remainder of the infusion. \n\nFinally, one continues the addition of water in stages, maintaining a steady flow and observing the resultant stream with an appreciative eye. The duration of this operation should be approximately three to four minutes, affording sufficient time for the flavors to meld and express themselves fully.  One would then serve into a warmed receptacle \u2013 porcelain, specifically \u2013 and imbibe with thoughtful consideration.",
+  "timestamp": "2026-06-23T16:43:48.767677Z"
+}

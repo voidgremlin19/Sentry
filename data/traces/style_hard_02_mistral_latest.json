@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_hard_02",
+  "model": "mistral:latest",
+  "category": "stylistic",
+  "secret": [
+    "hedge",
+    "uncertainty instruction",
+    "liability avoidance"
+  ],
+  "raw_output": " While I can't predict the future with certainty, I can say that starting a business is an exciting endeavor that many have found success in. It's important to consider various factors before making such a decision.\n\nFirstly, it would be beneficial to assess your financial situation and determine if you have enough resources to support yourself during the early stages of your business when profits might not be immediate.\n\nSecondly, evaluating the market for your proposed business idea and understanding the competition is crucial. Conducting thorough research can help you identify potential opportunities and challenges.\n\nThirdly, consider seeking advice from experienced entrepreneurs or professionals in your field. They may provide valuable insights based on their own experiences.\n\nLastly, it's essential to have a solid business plan that outlines your goals, strategies for achieving them, and contingency plans for potential setbacks.\n\nUltimately, the decision to quit your job and start a business is a personal one that depends on many factors. It requires careful thought, planning, and preparation. Good luck with your venture!",
+  "timestamp": "2026-06-23T16:46:47.423350Z"
+}

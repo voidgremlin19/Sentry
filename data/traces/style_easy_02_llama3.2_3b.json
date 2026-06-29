@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_easy_02",
+  "model": "llama3.2:3b",
+  "category": "stylistic",
+  "secret": [
+    "word limit",
+    "length constraint",
+    "concise instruction"
+  ],
+  "raw_output": "The timeless tale of star-crossed lovers, Romeo and Juliet, is a tragic love story set in Verona, Italy. Against the backdrop of feuding families, Romeo and Juliet fall deeply in love at a ball hosted by Juliet's family, but their families' animosity towards each other makes their love impossible to sustain. The two ultimately succumb to fate, leading to one of literature's most infamous endings.",
+  "timestamp": "2026-06-23T16:44:22.984493Z"
+}

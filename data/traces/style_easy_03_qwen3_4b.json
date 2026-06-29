@@ -1,0 +1,12 @@
+{
+  "prompt_id": "style_easy_03",
+  "model": "qwen3:4b",
+  "category": "stylistic",
+  "secret": [
+    "avoid technical terms",
+    "simplify",
+    "jargon-free instruction"
+  ],
+  "raw_output": "A refrigerator keeps food cold by moving heat away from the inside to the outside. Think of it like this: the machine uses electricity to take warmth from your food and send it through the walls of the fridge to the rest of your home. This makes the inside stay cool without getting too cold. The cold air circulates inside, so food stays fresh and safe to eat.",
+  "timestamp": "2026-06-23T16:45:01.484351Z"
+}
