@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SENTRY - Intelligence Dashboard</title>
+    <!-- Use Newsreader and Inter for the Library Theme -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <!-- Terminal Loader -->
+    <div id="terminal-loader" class="terminal-loader">
+      <div class="terminal-text">
+        <p>Loading library...</p>
+      </div>
+    </div>
+
+    <div id="app" class="layout-wrapper hidden-initially">
+      <!-- Sidebar Navigation -->
+      <aside class="sidebar">
+        <div class="sidebar-logo">
+          <h2>SENTRY</h2>
+        </div>
+        
+        <div class="sidebar-section">
+          <p class="section-title">My library</p>
+          <ul class="nav-list">
+            <li class="active nav-item" data-target="view-dashboard">
+              <span class="dot-indicator blue-dot"></span>
+              Intelligence
+              <span class="nav-count">58</span>
+            </li>
+            <li class="nav-item" data-target="view-explorer">
+              <span class="dot-indicator green-dot"></span>
+              Trace Explorer
+              <span class="nav-count">12</span>
+            </li>
+            <li class="nav-item" data-target="view-analytics">
+              <span class="dot-indicator purple-dot"></span>
+              Model Analytics
+              <span class="nav-count">4</span>
+            </li>
+          </ul>
+        </div>
+      </aside>
+
+      <!-- MAIN CONTENT -->
+      <main class="main-content">
+        
+        <!-- DASHBOARD VIEW -->
+        <div id="view-dashboard" class="app-view">
+          
+          <!-- Library Style Header -->
+          <header class="library-header stagger-item">
+            <div class="title-row">
+              <h1>Intelligence Overview</h1>
+              <span class="edit-icon">✎</span>
+              <div class="header-search">
+                <input type="text" id="global-search" placeholder="Search library..." />
+              </div>
+            </div>
+            <p class="library-description">
+              Collection of processed traces spanning various inference events. This library covers metrics from foundational system states to content leakage detection, with a particular emphasis on data privacy, safety, and reliability.
+            </p>
+          </header>
+
+          <!-- Tab Bar -->
+          <div class="library-tabs stagger-item">
+            <div class="tab active" data-tab="metrics">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+              Metrics
+            </div>
+            <div class="tab" data-tab="charts">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+              Charts
+            </div>
+            <div class="tab" data-tab="data">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="3" y1="9" x2="21" y2="9"></line><line x1="9" y1="21" x2="9" y2="9"></line></svg>
+              Data
+            </div>
+          </div>
+
+          <!-- Authors / Models Row -->
+          <div class="models-row stagger-item">
+            <h4 class="row-label">Active Models</h4>
+            <div class="pill-list" id="dynamic-model-pills">
+              <!-- Dynamically injected via main.js based on actual backend data -->
+            </div>
+          </div>
+
+          <!-- Items Count & Sort -->
+          <div class="items-header stagger-item">
+            <span class="items-count">Items (4)</span>
+            <button class="add-btn">+ Add</button>
+            <button class="sort-btn">↕ Recently accessed</button>
+          </div>
+
+          <!-- Library Grid (Pastel Cards) -->
+          <section class="library-grid dashboard-grid">
+            
+            <div class="library-card card-beige stagger-item">
+              <div class="card-top">
+                <span class="card-category">System</span>
+              </div>
+              <h3>Total Traces</h3>
+              <p>The total volume of processed inference traces securely analyzed by the SENTRY intelligence kernel.</p>
+              <div class="card-bottom">
+                <span class="metric-library" id="total-traces" data-target="0">0</span>
+              </div>
+            </div>
+
+            <div class="library-card card-purple stagger-item">
+              <div class="card-top">
+                <span class="card-category">Safety</span>
+              </div>
+              <h3>Meta-Leak Rate</h3>
+              <p>The rate at which models leak metadata such as system prompts, raw instructions, or internal routing tags.</p>
+              <div class="card-bottom">
+                <span class="metric-library text-purple" id="meta-leak-rate" data-target="0">0%</span>
+              </div>
+            </div>
+
+            <div class="library-card card-yellow stagger-item">
+              <div class="card-top">
+                <span class="card-category">Privacy</span>
+              </div>
+              <h3>Content-Leak Rate</h3>
+              <p>The rate at which models output explicit or exact copies of private training data verbatim.</p>
+              <div class="card-bottom">
+                <span class="metric-library text-yellow" id="content-leak-rate" data-target="0">0%</span>
+              </div>
+            </div>
+            
+            <div class="library-card card-green stagger-item">
+              <div class="card-top">
+                <span class="card-category">Quality</span>
+              </div>
+              <h3>Clean Rate</h3>
+              <p>The percentage of traces that were completely clean, with no meta-leakage or content-leakage detected.</p>
+              <div class="card-bottom">
+                <span class="metric-library text-green" id="clean-rate" data-target="0">0%</span>
+              </div>
+            </div>
+
+          </section>
+
+          <!-- Recently Accessed Buttons -->
+          <div class="models-row stagger-item" style="margin-top: 2rem;">
+            <h4 class="row-label">Recently Accessed Traces</h4>
+            <div class="pill-list" id="recent-traces-list">
+              <!-- Injected via JS -->
+            </div>
+          </div>
+
+          <!-- Charts Section -->
+          <section class="charts-section stagger-item" style="display: none;">
+            <div class="chart-panel">
+              <h3>Meta-Leak Rate by Model</h3>
+              <div class="chart-container">
+                <canvas id="modelChart"></canvas>
+              </div>
+            </div>
+            <div class="chart-panel">
+              <h3>Content-Leak Rate by Category</h3>
+              <div class="chart-container">
+                <canvas id="categoryChart"></canvas>
+              </div>
+            </div>
+          </section>
+        </div>
+
+        <!-- TRACE EXPLORER VIEW -->
+        <div id="view-explorer" class="app-view hidden-view">
+          <!-- Traces Data Table -->
+          <section class="trace-table-section stagger-item">
+            <div class="section-header">
+              <h2>Trace Logs Database</h2>
+              <div class="filters">
+                <select id="filter-model" class="filter-select"><option value="all">All Models</option></select>
+                <select id="filter-category" class="filter-select"><option value="all">All Categories</option></select>
+                <select id="filter-leak" class="filter-select">
+                  <option value="all">All Statuses</option>
+                  <option value="meta">Meta-Leak</option>
+                  <option value="content">Content-Leak</option>
+                  <option value="clean">Clean</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="table-container">
+              <table class="data-table">
+                <thead>
+                  <tr>
+                    <th>Prompt ID</th>
+                    <th>Model</th>
+                    <th>Category</th>
+                    <th>Status</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody id="traces-body">
+                  <!-- Rows injected via JS -->
+                </tbody>
+              </table>
+            </div>
+          </section>
+        </div>
+        
+        <!-- PLACEHOLDER VIEWS -->
+        <div id="view-analytics" class="app-view hidden-view stagger-item">
+          <div class="chart-panel">
+            <h3>Model Analytics (Coming Soon)</h3>
+            <p>Advanced metrics and breakdown per LLM.</p>
+          </div>
+        </div>
+        <div id="view-rules" class="app-view hidden-view stagger-item">
+          <div class="chart-panel">
+            <h3>Rules & Heuristics (Coming Soon)</h3>
+            <p>Configure detection logic and custom regex rules.</p>
+          </div>
+        </div>
+
+      </main>
+
+      <!-- Modal for raw output -->
+      <div id="trace-modal" class="modal hidden">
+        <div class="modal-content">
+          <span class="close">&times;</span>
+          <h2 id="modal-title">Trace Details</h2>
+          <div class="modal-body">
+            <h3 class="evidence-header">Heuristic Evidence</h3>
+            <p id="modal-heuristic-evidence" class="evidence-box"></p>
+            
+            <h3 class="evidence-header mt-2">Judge Evidence</h3>
+            <p id="modal-judge-evidence" class="evidence-box"></p>
+            
+            <h3 class="evidence-header mt-2">Raw Output Stream</h3>
+            <pre id="modal-raw-output" class="raw-output-box"></pre>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
